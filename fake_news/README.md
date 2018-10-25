@@ -46,4 +46,4 @@ When adding new analysed dataset, please follow these steps:
 1. It would be nice to add analysis also into `fake_news_datasets.ipynb` file, where all datasets are analysed.
 
 ### TO-DO
-* Viral tweets with fakenews on 2016 US election day [https://zenodo.org/record/1048820](Viral tweets with fakenews on 2016 US election day)
+* Viral tweets with fakenews on 2016 US election day (https://zenodo.org/record/1048820)
