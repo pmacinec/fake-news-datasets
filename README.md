@@ -13,3 +13,7 @@ With installed Docker, run the following command to build docker image and start
 ./scripts/run.sh -b
 ```
 **Note:** Next time, when no build is needed (because image has been already built), you can just run container by skipping `-b` argument.
+
+## Datasets
+
+List of all processed datasets with simple comparison is stored in [datasets/README.md](./datasets/README.md) file.

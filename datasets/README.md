@@ -1,8 +1,7 @@
-# Fake News Datasets
+# Processed datasets
 
-### Processed datasets
+Following datasets have been processed so far:
 
-In this project, following datasets are processed:
 * Fake News | Kaggle
 * Getting real about Fake News | Kaggle
 * Fake News detection | Kaggle
