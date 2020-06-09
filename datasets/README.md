@@ -36,3 +36,9 @@ When adding new analysed dataset, please follow these steps:
 * New datasets:
     * Viral tweets with fakenews on 2016 US election day (https://zenodo.org/record/1048820)
     * WSDM - Fake News Classification(https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
+    * https://github.com/entitize/Fakeddit
+    * https://github.com/jgolbeck/fakenews
+    * https://gitlab.com/alexander_kinsora/misinfofinder/blob/master/feature_extraction/data_output.tsv
+    * https://github.com/rpitrust/fakenewsdata1
+    * https://github.com/mhardalov/news-credibility
+    * https://lit.eecs.umich.edu/downloads.html#Fake%20News
