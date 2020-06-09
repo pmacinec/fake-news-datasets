@@ -31,6 +31,8 @@ When adding new analysed dataset, please follow these steps:
 1. Do not forget to add new dataset into this table of datasets in this README file.
 
 ### TO-DO
-* Viral tweets with fakenews on 2016 US election day (https://zenodo.org/record/1048820)
-* WSDM - Fake News Classification(https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
 * Add information whether labeling was performed manually.
+* Setup Git LFS.
+* New datasets:
+    * Viral tweets with fakenews on 2016 US election day (https://zenodo.org/record/1048820)
+    * WSDM - Fake News Classification(https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
