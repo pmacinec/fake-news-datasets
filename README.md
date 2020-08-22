@@ -17,3 +17,5 @@ With installed Docker, run the following command to build docker image and start
 ## Datasets
 
 List of all processed datasets with simple comparison is stored in [datasets/README.md](./datasets/README.md) file.
+
+All datasets analyses are stored in [datasets/](./datasets/) folder. Each dataset has its own folder with simple description in README file and jupyter notebook (also can include different files, e.g. data itself).
