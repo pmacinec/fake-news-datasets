@@ -1,2 +1,4 @@
 missingno
 gensim
+nltk
+wordcloud
