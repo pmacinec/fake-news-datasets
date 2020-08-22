@@ -9,4 +9,6 @@ COPY ./requirements.txt /project/requirements.txt
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
+RUN python -c "import nltk; nltk.download(['punkt', 'stopwords'])"
+
 ENTRYPOINT jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
