@@ -2,7 +2,10 @@
 
 Link: [https://github.com/BuzzFeedNews/2016-10-facebook-fact-check](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)
 
-This jupyter notebook covers descriptive analysis of **BuzzFeedNews Facebook Facts** dataset. 
+Task:
+* multiclass classification - according to **Rating** attribute
+* binary classification - choose only true/false samples
+
 
 ## Attributes
 
