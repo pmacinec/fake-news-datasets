@@ -81,6 +81,7 @@ def kdeplot_per_classes(
         sns.kdeplot(df[df[groupby] == x][attribute], label=x, shade=True, shade_lowest=False)
     plt.title(title)
     plt.xticks(rotation=ticks_rotation)
+    plt.show();
 
 
 def boxplot_per_classes(
@@ -99,9 +100,10 @@ def boxplot_per_classes(
     :param title: title of plot.
     :param ticks_rotation: rotation of x-ticks (labels).
     """
-    sns.boxplot(x=attribute, data=df)
+    sns.boxplot(x=groupby, y=attribute, data=df)
     plt.title(title)
     plt.xticks(rotation=ticks_rotation)
+    plt.show();
 
 
 def analyse_categorical_attributes(df: pd.DataFrame, label_column: str, columns: list = None) -> None:
@@ -154,6 +156,7 @@ def barplot_per_classes(
     sns.barplot(attribute, 'percentage', hue=groupby, data=data)
     plt.xticks(rotation=ticks_rotation)
     plt.title(title)
+    plt.show();
 
 
 def analyse_textual_attributes(df: pd.DataFrame, columns: list = None) -> None:
@@ -212,7 +215,7 @@ def word_count_histogram(df: pd.DataFrame, column: str) -> None:
     ax.set_title('Preprocessed text')
     ax.hist(df[f'{column}_wc_preprocessed'], bins=30)
 
-    plt.show()
+    plt.show();
 
 
 def draw_word_cloud(texts: List[str]) -> None:
@@ -231,7 +234,7 @@ def draw_word_cloud(texts: List[str]) -> None:
     plt.imshow(word_cloud)
     plt.axis('off')
     plt.tight_layout(pad=0) 
-    plt.show() 
+    plt.show();
 
 
 def check_correlations(df: pd.DataFrame, columns: list = None) -> None:
