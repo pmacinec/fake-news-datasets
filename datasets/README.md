@@ -28,23 +28,22 @@ When adding new analysed dataset, please follow these steps:
 | **Dataset** | **Records count** | **Attributes count** | **Labels** | **Labeling method** |
 |:------------|:-----------------:|:--------------------:|------------| --------------------|
 | [BuzzFeedNews Facebook Facts](./buzzfeednews_facebook_facts/) | 2,282 | 12 | mostly true, no factual content, mixture of true and false, mostly false | manual |
-| [Fake News - Kaggle](./fake_news_kaggle/) | 20,800 + 5,200 | 5 | reliable, unreliable | unknown |
-| [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | unknown |
-| [Fake News detection - Kaggle](./fake_news_detection_kaggle/) | 4,009 | 4 | 1 (real), 0 (fake) | unknown |
-| [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
+| [Election Day Tweets](./electionday_tweets/) | 1327 | 17 | not fake news, fake news (or 5 categories of fake news) | manual by one expert | 
 | [FakeNewsChallenge](./fake_news_challenge/) | 49,972 | 3 | unrelated, discuss, agree, disagree | unknown |
+| [FakeNewsCorpus](./fake_news_corpus/) | 9,408,908 | 16 | fake, satire, bias, conspiracy, state, junksci, hate, clickbait, unreliable, political, reliable | using domain |
+| [Fake News detection - Kaggle](./fake_news_detection_kaggle/) | 4,009 | 4 | 1 (real), 0 (fake) | unknown |
+| [Fake News - Kaggle](./fake_news_kaggle/) | 20,800 + 5,200 | 5 | reliable, unreliable | unknown |
+| [FakeNewsNet](./fake_news_net/) | 422 | - | Real, Fake | unknown |
+| [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
+| [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | unknown |
+| [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | unknown |
 | [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 10 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | unknown |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | unknown |
-| [FakeNewsCorpus](./fake_news_corpus/) | 9,408,908 | 16 | fake, satire, bias, conspiracy, state, junksci, hate, clickbait, unreliable, political, reliable | using domain |
-| [FakeNewsNet](./fake_news_net/) | 422 | - | Real, Fake | unknown |
-| [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | unknown |
 
 
 ### TO-DO
-* Add information whether labeling was performed manually.
 * Setup Git LFS.
 * New datasets:
-    * Viral tweets with fakenews on 2016 US election day (https://zenodo.org/record/1048820)
     * WSDM - Fake News Classification(https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
     * https://github.com/entitize/Fakeddit
     * https://github.com/jgolbeck/fakenews
