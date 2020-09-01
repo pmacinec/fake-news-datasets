@@ -78,6 +78,10 @@ def kdeplot_per_classes(
     :param ticks_rotation: rotation of x-ticks (labels).
     """
     for x in df[groupby].unique():
+        q75, q25 = np.percentile(df[df[groupby] == x][attribute], [75 ,25])
+        iqr = q75 - q25
+        if iqr == 0:
+            return
         sns.kdeplot(df[df[groupby] == x][attribute], label=x, shade=True, shade_lowest=False)
     plt.title(title)
     plt.xticks(rotation=ticks_rotation)
