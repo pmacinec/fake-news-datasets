@@ -6,6 +6,7 @@ Task:
 * multiclass classification - according to **Rating** attribute
 * binary classification - choose only true/false samples
 
+Original repository contains the data and analysis for the BuzzFeed News article, "Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate," published October 20, 2016.
 
 ## Attributes
 
