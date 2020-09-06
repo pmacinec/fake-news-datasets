@@ -37,7 +37,7 @@ When adding new analysed dataset, please follow these steps:
 | [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
 | [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | unknown |
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts |
-| [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 10 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | unknown |
+| [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 10 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | manual by experts (with portals like politifact.com) |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) |
 | [WSDM - Fake News Classification - Kaggle](./wsdm_fake_news_classification_kaggle/) | 320,552 | 8 | unrelated, agreed, disagreed | probably by experts |
 

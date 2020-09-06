@@ -2,7 +2,9 @@
 
 Link: [https://www.cs.ucsb.edu/~william/data/liar_dataset.zip](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
 
-This jupyter notebook covers descriptive analysis of **LIAR** dataset. 
+Task:
+* multiclass classification - more classes (interval) of truthfulness
+* binary classification - reduce more classes (from **label** attribute) into two (true, false)
 
 
 LIAR: A BENCHMARK DATASET FOR FAKE NEWS DETECTION
@@ -10,9 +12,11 @@ William Yang Wang, "Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake 
 
 Note that we do not provide the full-text verdict report in this current version of the dataset,
 but you can use the following command to access the full verdict report and links to the source documents:
+```
 wget http://www.politifact.com//api/v/2/statement/[ID]/?format=json
+```
 
-**Note:** This dataset contains 3 files, *test.tsv*, *train.tsv* and *valid.tsv*.
+**Note:** This dataset contains 3 files, *test.tsv*, *train.tsv* and *valid.tsv*. Those three files are merged and analysed together.
 
 
 ## Attributes
