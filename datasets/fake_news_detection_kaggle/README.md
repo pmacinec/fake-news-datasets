@@ -2,7 +2,9 @@
 
 Link: [https://www.kaggle.com/jruvika/fake-news-detection](https://www.kaggle.com/jruvika/fake-news-detection)
 
-This jupyter notebook covers descriptive analysis of **Fake News detection | Kaggle** dataset. 
+Task:
+* binary classification - fake news or not, according to **Label** attribute
+
 
 ## Attributes
 
