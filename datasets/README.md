@@ -20,7 +20,7 @@ When adding new analysed dataset, please follow these steps:
     * description of attributes,
     * any additional important notes.
 1. Start analysing the data in jupyter notebook (copied as `template.ipynb`). Please, follow template file structure.
-1. Add dataset and details into table of datasets in this README file.
+1. Add dataset and details into table of datasets in this README file (please, follow the alphabetical order).
 
 
 ## Processed datasets table
@@ -29,7 +29,7 @@ When adding new analysed dataset, please follow these steps:
 |:------------|:-----------------:|:--------------------:|------------| --------------------|
 | [BuzzFeedNews Facebook Facts](./buzzfeednews_facebook_facts/) | 2,282 | 12 | mostly true, no factual content, mixture of true and false, mostly false | manual |
 | [Election Day Tweets](./electionday_tweets/) | 1327 | 17 | not fake news, fake news (or 5 categories of fake news) | manual by one expert | 
-| [FakeNewsChallenge](./fake_news_challenge/) | 49,972 | 3 | unrelated, discuss, agree, disagree | unknown |
+| [FakeNewsChallenge](./fake_news_challenge/) | 49,972 | 3 | unrelated, discuss, agree, disagree | manual by experts |
 | [FakeNewsCorpus](./fake_news_corpus/) | 9,408,908 | 16 | fake, satire, bias, conspiracy, state, junksci, hate, clickbait, unreliable, political, reliable | using domain |
 | [Fake News detection - Kaggle](./fake_news_detection_kaggle/) | 4,009 | 4 | 1 (real), 0 (fake) | unknown |
 | [Fake News - Kaggle](./fake_news_kaggle/) | 20,800 + 5,200 | 5 | reliable, unreliable | unknown |
