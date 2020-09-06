@@ -48,7 +48,7 @@ def analyse_numerical_attributes(df: pd.DataFrame, label_column: str, columns: l
     """
     columns = columns if columns is not None else list(df.columns)
 
-    if columns:
+    if columns and columns != [label_column]:
         for col in columns:
             if col == label_column:
                 continue
@@ -120,7 +120,7 @@ def analyse_categorical_attributes(df: pd.DataFrame, label_column: str, columns:
     """
     columns = columns if columns is not None else list(df.columns)
     
-    if columns:
+    if columns and columns != [label_column]:
         for col in columns:
             if col == label_column:
                 continue
