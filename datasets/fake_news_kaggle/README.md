@@ -2,7 +2,8 @@
 
 Link: [https://www.kaggle.com/c/fake-news](https://www.kaggle.com/c/fake-news)
 
-This jupyter notebook covers descriptive analysis of **Fake news | Kaggle** dataset. 
+Task:
+* binary classification - reliable or unreliable news, according to **label** attribute
 
 **Note:** Repository contains 2 files, train and test files, but test file does not contain labels.
 
