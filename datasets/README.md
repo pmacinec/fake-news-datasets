@@ -2,7 +2,7 @@
 
 Datasets shown in table below have been processed so far. Each dataset has its own folder with python jupyter notebook and data (dataset name is the link to correct folder in this repository).
 
-**NOTE:** Not all of the datasets usually provide the data to perform task of fake news detection. In every corresponding jupyter notebook, there are *tasks* - ideas what can be done with that dataset. However, do not limit yourself to that and use your imagination and creativity.
+**Note:** Not all of the datasets usually provide the data to perform task of fake news detection. In every corresponding jupyter notebook, there are *tasks* - ideas what can be done with that dataset. However, do not limit yourself to that and use your imagination and creativity.
 
 
 ## Adding new datasets
@@ -33,11 +33,11 @@ When adding new analysed dataset, please follow these steps:
 | [FakeNewsCorpus](./fake_news_corpus/) | 9,408,908 | 16 | fake, satire, bias, conspiracy, state, junksci, hate, clickbait, unreliable, political, reliable | using domain |
 | [Fake News detection - Kaggle](./fake_news_detection_kaggle/) | 4,009 | 4 | 1 (real), 0 (fake) | unknown |
 | [Fake News - Kaggle](./fake_news_kaggle/) | 20,800 | 5 | reliable, unreliable | unknown |
-| [FakeNewsNet](./fake_news_net/) | 422 | - | Real, Fake | unknown |
+| [FakeNewsNet](./fake_news_net/) | 23,196 | 5 | real, fake | according to fact-checking websites (like politifact.com) |
 | [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
 | [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | unknown |
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts |
-| [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 10 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | manual by experts (with portals like politifact.com) |
+| [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 10 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | according to fact-checking websites (like politifact.com) |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) |
 | [WSDM - Fake News Classification - Kaggle](./wsdm_fake_news_classification_kaggle/) | 320,552 | 8 | unrelated, agreed, disagreed | probably by experts |
 
@@ -48,7 +48,6 @@ When adding new analysed dataset, please follow these steps:
 * New datasets:
     * https://github.com/entitize/Fakeddit
     * https://github.com/jgolbeck/fakenews
-    * https://gitlab.com/alexander_kinsora/misinfofinder/blob/master/feature_extraction/data_output.tsv
     * https://github.com/rpitrust/fakenewsdata1
     * https://github.com/mhardalov/news-credibility
     * https://lit.eecs.umich.edu/downloads.html#Fake%20News
