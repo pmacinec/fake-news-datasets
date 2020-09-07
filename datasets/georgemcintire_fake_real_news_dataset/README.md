@@ -2,7 +2,11 @@
 
 Link: [https://github.com/GeorgeMcIntire/fake_real_news_dataset](https://github.com/GeorgeMcIntire/fake_real_news_dataset)
 
-This jupyter notebook covers descriptive analysis of **GeorgeMcIntire/fake_real_news_dataset** dataset. 
+Task:
+* binary classification - fake news detection using **label** attribute
+
+**Note:** Dataset is no longer available at the link.
+
 
 ## Attributes
 
