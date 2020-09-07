@@ -19,3 +19,13 @@ With installed Docker, run the following command to build docker image and start
 List of all processed datasets with simple comparison is stored in [datasets/README.md](./datasets/README.md) file.
 
 All datasets analyses are stored in [datasets/](./datasets/) folder. Each dataset has its own folder with simple description in README file and jupyter notebook (also can include different files, e.g. data itself).
+
+### Adding new dataset
+
+When adding new dataset, please follow these steps:
+
+1. Call `./scripts/create_structure.sh {name}` script with name argument supplied in `snake_case` format (e.g. `fake_news_detection_kaggle`). This script will create needed folders and files in `datasets/{name}` folder.
+1. Add data into `datasets/{name}/data` directory.
+1. Update `datasets/{name}/README.md` file to provide link, potential tasks, description and attributes descriptions. Please, follow template file structure.
+1. Update `datasets/{name}/{name}.ipynb` file with analysis of the dataset. Please, follow template file structure.
+1. Add dataset and details into table of datasets in `datasets/README.md` file (please, follow the alphabetical order).

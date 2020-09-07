@@ -5,24 +5,6 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 **Note:** Not all of the datasets usually provide the data to perform task of fake news detection. In every corresponding jupyter notebook, there are *tasks* - ideas what can be done with that dataset. However, do not limit yourself to that and use your imagination and creativity.
 
 
-## Adding new datasets
-
-When adding new analysed dataset, please follow these steps:
-
-1. Create new folder with name corresponding to analysed dataset.
-1. Copy `template.ipynb` file inside and rename it according to created folder.
-1. If dataset is not too large, you can also include the files into `{your_dataset}/data` folder.
-1. Create `README.md` file with following parts:
-    * the name of the dataset,
-    * link to the dataset,
-    * possible/potential tasks that can be performed on the data,
-    * description of the dataset,
-    * description of attributes,
-    * any additional important notes.
-1. Start analysing the data in jupyter notebook (copied as `template.ipynb`). Please, follow template file structure.
-1. Add dataset and details into table of datasets in this README file (please, follow the alphabetical order).
-
-
 ## Processed datasets table
 
 | **Dataset** | **Records count** | **Attributes count** | **Labels** | **Labeling method** |
