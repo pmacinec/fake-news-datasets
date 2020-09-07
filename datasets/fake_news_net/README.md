@@ -26,7 +26,8 @@ The minimalistic version of latest dataset provided in this repo (located in dat
 
 ## Attributes
 
-* **id** - Unique identifider for each news
-* **url** - Url of the article from web that published that news
-* **title** - Title of the news article
-* **tweet_ids** - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
+* **id** - unique identifider for each news
+* **news_url** - url of the article from web that published that news
+* **title** - title of the news article
+* **tweet_ids** - tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
+* **label** - attribute that is not present, but can be created from filenames (see `fake_news_net.ipynb`)
