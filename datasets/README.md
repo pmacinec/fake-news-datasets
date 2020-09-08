@@ -20,6 +20,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | using domain (with usage of `OpenSources`) |
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts |
 | [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 14 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | according to fact-checking websites (like politifact.com) |
+| [Misinfofinder](./misinfofinder/) | 248  | 13 | 1 (misinformative), 0 (non-misinformative) | manual by authors |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) |
 | [WSDM - Fake News Classification - Kaggle](./wsdm_fake_news_classification_kaggle/) | 320,552 | 8 | unrelated, agreed, disagreed | probably by experts |
 
