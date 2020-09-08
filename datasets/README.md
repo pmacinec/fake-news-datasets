@@ -23,13 +23,3 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [Misinfofinder](./misinfofinder/) | 248  | 13 | 1 (misinformative), 0 (non-misinformative) | manual by authors |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) |
 | [WSDM - Fake News Classification - Kaggle](./wsdm_fake_news_classification_kaggle/) | 320,552 | 8 | unrelated, agreed, disagreed | probably by experts |
-
-
-### TO-DO
-* Setup Git LFS.
-* New datasets:
-    * https://github.com/entitize/Fakeddit
-    * https://github.com/jgolbeck/fakenews
-    * https://github.com/rpitrust/fakenewsdata1
-    * https://github.com/mhardalov/news-credibility
-    * https://lit.eecs.umich.edu/downloads.html#Fake%20News
