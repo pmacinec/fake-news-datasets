@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
-data
+*.py[cod]
+.idea
+.vscode
+.env
+.venv

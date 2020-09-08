@@ -4,6 +4,11 @@
 
 This project was created to show basic analysis of public datasets of **fake news**. Main idea is to make each analysis replicable, so everyone can add his own analysis and use it for his experiments and data mining. Every dataset has its own *python jupyter notebook* with simple analysis, which can help to choose appropriate dataset.
 
+## Prerequisites
+
+* [Docker](https://www.docker.com/)
+* [GIT LFS](https://git-lfs.github.com/)
+
 ## Installation and running
 
 To run all jupyter notebooks with appropriate libraries installed, we refer to use [Docker](https://www.docker.com/).
@@ -19,6 +24,8 @@ With installed Docker, run the following command to build docker image and start
 List of all processed datasets with simple comparison is stored in [datasets/README.md](./datasets/README.md) file.
 
 All datasets analyses are stored in [datasets/](./datasets/) folder. Each dataset has its own folder with simple description in README file and jupyter notebook (also can include different files, e.g. data itself).
+
+Dataset files (e.g. `.csv` or `.tsv` files) are stored using Git LFS (see [Git LFS](https://git-lfs.github.com/) for more information).
 
 ### Adding new dataset
 
