@@ -2,6 +2,8 @@
 
 Link: [link](link)
 
+Paper link: [title of article](link) (if does not exist, just remove this line)
+
 Task:
 * task - description of potential task
 * another potential task - ...
