@@ -44,7 +44,6 @@ When adding new dataset, please follow these steps:
 ## TODO
 
 Finish datasets:
-* pheme
 * fake_news_vs_satire
 * ban_fake_news
 * news_credibility
