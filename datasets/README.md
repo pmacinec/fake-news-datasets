@@ -18,7 +18,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [Fake News - Kaggle](./fake_news_kaggle/) | 20,800 | 5 | reliable, unreliable | unknown |
 | [FakeNewsNet](./fake_news_net/) | 23,196 | 5 | real, fake | according to fact-checking websites (like politifact.com) |
 | [Fake News vs Satire](./fake_news_vs_satire/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
-| [Fakeddit](./fakeddit/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
+| [Fakeddit](./fakeddit/) | 1,063,106 | 16 | fake (probably 0) or not (probably 1), or 3-way labeling and 6-way labeling (see appropriate README)  | according to subreddit's theme, automated quality checks and manually checked 150 of them for test |
 | [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
 | [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | using domain (with usage of `OpenSources`) |
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts |

@@ -44,7 +44,6 @@ When adding new dataset, please follow these steps:
 ## TODO
 
 Finish datasets:
-* fakeddit
 * pheme
 * fake_news_vs_satire
 * ban_fake_news
@@ -54,3 +53,5 @@ Finish datasets:
 * detecting_rumors_microblogs
 * http://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf - https://lit.eecs.umich.edu/downloads.html#Fake%20News
 * bulgarian: https://gitlab.com/datasciencesociety/case_fake_news/tree/master/data manually labeled by students of journalism https://github.com/lachezarbozhkov/hack_the_fake_news/tree/master/data
+* CREDBANK (Mitra and Gilbert, 2015)
+* FEVER (Thorne et al., 2018)
