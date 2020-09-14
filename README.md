@@ -1,5 +1,8 @@
 # Fake News Datasets
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Introduction
 
 This project was created to show basic analysis of public datasets of **fake news**. Main idea is to make each analysis replicable, so everyone can add his own analysis and use it for his experiments and data mining. Every dataset has its own *python jupyter notebook* with simple analysis, which can help to choose appropriate dataset.
@@ -46,3 +49,8 @@ Finish datasets:
 * fake_news_vs_satire
 * ban_fake_news
 * news_credibility
+* this_just_in
+* eann_kdd18
+* detecting_rumors_microblogs
+* http://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf - https://lit.eecs.umich.edu/downloads.html#Fake%20News
+* bulgarian: https://gitlab.com/datasciencesociety/case_fake_news/tree/master/data manually labeled by students of journalism https://github.com/lachezarbozhkov/hack_the_fake_news/tree/master/data
