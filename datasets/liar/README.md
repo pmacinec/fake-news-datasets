@@ -2,6 +2,8 @@
 
 Link: [https://www.cs.ucsb.edu/~william/data/liar_dataset.zip](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
 
+Paper link: ["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
+
 Task:
 * multiclass classification - more classes (interval) of truthfulness
 * binary classification - reduce more classes (from **label** attribute) into two (true, false)

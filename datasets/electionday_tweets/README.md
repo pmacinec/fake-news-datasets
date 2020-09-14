@@ -2,6 +2,8 @@
 
 Link: [https://zenodo.org/record/1048820#.W_BHg-JReMq](https://zenodo.org/record/1048820#.W_BHg-JReMq)
 
+Paper link: [Characterizing Political Fake News in Twitter by its Meta-Data](https://arxiv.org/abs/1712.05999)
+
 Task:
 * binary classification - according to **is_fake_news** attribute
 * multiclass classification - according to **fake_news_category** attribute

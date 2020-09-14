@@ -2,6 +2,8 @@
 
 Link: [https://github.com/KaiDMML/FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)
 
+Paper link: [FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media](https://arxiv.org/abs/1809.01286)
+
 Task:
 * binary classification - fake and real news (according to file name, or created auxiliary column as shown in `fake_news_net.ipynb`)
 

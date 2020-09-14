@@ -2,6 +2,8 @@
 
 Link: [https://gitlab.com/alexander_kinsora/misinfofinder](https://gitlab.com/alexander_kinsora/misinfofinder)
 
+Paper link: [Creating a Labeled Dataset for Medical Misinformation in Health Forums](https://ieeexplore.ieee.org/document/8031194)
+
 Task:
 * binary classification - post is misinformative (1) or not (0), according to **label** attribute
 

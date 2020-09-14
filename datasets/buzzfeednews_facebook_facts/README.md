@@ -2,6 +2,8 @@
 
 Link: [https://github.com/BuzzFeedNews/2016-10-facebook-fact-check](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)
 
+Paper link: [Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate](https://www.buzzfeednews.com/article/craigsilverman/partisan-fb-pages-analysis)
+
 Task:
 * multiclass classification - according to **Rating** attribute
 * binary classification - choose only true/false samples

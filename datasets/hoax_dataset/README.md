@@ -2,6 +2,8 @@
 
 Link: [https://cs.stanford.edu/~srijan/hoax/](https://cs.stanford.edu/~srijan/hoax/)
 
+Paper link: [Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes](https://cs.stanford.edu/~srijan/hoax/)
+
 Task:
 * binary classification - hoax or nonhoax, according to folder structure
 

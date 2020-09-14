@@ -2,6 +2,8 @@
 
 Link: [https://github.com/yaqingwang/WeFEND-AAAI20](https://github.com/yaqingwang/WeFEND-AAAI20)
 
+Paper link: [Weak Supervision for Fake News Detection via Reinforcement Learning](https://arxiv.org/abs/1912.12520)
+
 Task:
 * binary classification - fake news detection, whether article is fake (1) or not (0), according to **label** attribute
 
@@ -15,7 +17,9 @@ Each sample consists of both news articles and user feedback comments. Both are 
 
 **Note2:** Dataset contains also one more file with unlabeled news (67,748 samples).
 
-**Note3**: For labeling, only titles were used instead of whole content.
+**Note3:** For labeling, only titles were used instead of whole content.
+
+**Note4:** This dataset contains 2 files, *test_news.csv* and *train_news.csv*. Those three files are merged and analysed together.
 
 
 ## Attributes
