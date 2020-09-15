@@ -26,7 +26,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [FEVER](./fever/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
 | [GeorgeMcIntire/fake_real_news_dataset](./georgemcintire_fake_real_news_dataset/) | 6,335 | 3 | REAL, FAKE | unknown |
 | [Getting real about Fake News - Kaggle](./getting_real_about_fake_news_kaggle/) | 12,999 | 20 | bias, conspiracy, hate, satire, state, junksci, fake, bs | using domain (with usage of `OpenSources`) |
-| [Hack the Fake News](./hack_the_fake_news/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
+| [Hack the Fake News](./hack_the_fake_news/) | 2,815 + 761 | 6 | fake news (3) or not (1) | manual by students of journalism |
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts |
 | [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 14 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | according to fact-checking websites (like politifact.com) |
 | [Misinfofinder](./misinfofinder/) | 248  | 13 | 1 (misinformative), 0 (non-misinformative) | manual by authors |

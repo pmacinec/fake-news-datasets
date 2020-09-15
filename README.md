@@ -51,6 +51,4 @@ Finish datasets:
 * eann_kdd18
 * detecting_rumors_microblogs
 * fever
-* credbank
 * deception_detection_fake_news
-* hack_the_fake_news
