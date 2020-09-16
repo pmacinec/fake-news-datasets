@@ -1,0 +1,6 @@
+YouTube automates sound effect captions with AI
+
+
+YouTube has used algorithms to automatically caption speech for eight years now in an effort to make its billions of videos more accessible for the deaf and hard of hearing. While the feature was pretty rough at first, it has significantly improved it over time, getting "closer and closer to human transcription error rates," Google said in its developers blog. Since speech is just one part of the audio picture, though, YouTube has launched automatic sound effect captioning for the first time.
+
+For now, the system can just show three classes of sounds: Applause, music and laughter.

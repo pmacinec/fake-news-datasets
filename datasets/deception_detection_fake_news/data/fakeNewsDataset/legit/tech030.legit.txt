@@ -1,0 +1,6 @@
+Twitter adds more anti-abuse tools
+
+
+Twitter has introduced more measures aimed at cutting down on the amount of abuse on the platform. Users will be able to limit what they see from certain types of account, particularly ones with no profile picture or information. Such accounts are often set up by trolls.
+The company said it would act only on accounts that its computer algorithms had thrown up as being abusive.
+"Since these tools are new, we will sometimes make mistakes, but know that we are actively working to improve and iterate on them every day," said Ed Ho, Twitter's vice-president of engineering in a blogpost.

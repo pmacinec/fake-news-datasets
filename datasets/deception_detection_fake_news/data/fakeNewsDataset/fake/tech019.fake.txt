@@ -1,0 +1,5 @@
+Yahoo Denies Data Breach from 500M Accounts
+
+
+
+While many news outlets are reporting the state-sponsored theft of 500 million user accounts from the Yahoo network, Yahoo has denied the breach has taken place. "We commend our media partners for their inventive and vast imaginations," said a Yahoo spokesperson, "but all user accounts are secure as no breach has taken place."  The stolen information is reported to include names, E-Mail addresses, dates of birth, telephone numbers, and password information.  Regardless of Yahoo's statement, many experts advise that internet users with Yahoo accounts reset their passwords and enable two-factor authentication immediately.

@@ -1,0 +1,5 @@
+Are Autonomous Cars Ready to Go It Alone?
+
+Training wheels for autonomous vehicles come in the shape of a human behind the wheel. But when you remove the safety driver from a robotic car, two tons of metal is let loose.
+
+Just last week, California's Department of Motor Vehicles announced that it plans to allow companies to test autonomous cars on its roads without on-board backup drivers before the end of the year. The cars would be required to have a remote operator capable of keeping an eye on the car, but nevertheless, as the Guardian correctly points out, the news feels like a defining moment for the technology. Has it matured enough to finally let us place our faith in the ability of the robot?

@@ -1,0 +1,5 @@
+YouTube's Zero Percent Error Rate on Sound Effect Captions 
+
+
+
+For over 15 years, YouTube has used algorithms to auto-caption speech for the hearing impaired. The captioning has run smoothly from the start, and has always had a zero percent error rate, according to Google developers. Youtube has, for several years, provided sound effect captioning, too. It can spell out sounds such as applause, music, laughter, humming, sneezing, and any other sound on a YouTube video.

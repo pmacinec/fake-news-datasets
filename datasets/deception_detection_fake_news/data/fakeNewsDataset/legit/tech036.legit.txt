@@ -1,0 +1,7 @@
+Machine Learning Opens Up New Ways to Help Disabled People
+
+
+
+CC rules require TV stations to provide closed captions that convey speech, sound effects, and audience reactions such as laughter to deaf and hard of hearing viewers. YouTube isn't subject to those rules, but thanks to Google's machine-learning technology, it now offers similar assistance.
+
+YouTube has used speech-to-text software to automatically caption speech in videos since 2009 (they are used 15 million times a day). Today it rolled out algorithms that indicate applause, laughter, and music in captions. More sounds could follow, since the underlying software can also identify noises like sighs, barks, and knocks.

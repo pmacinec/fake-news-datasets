@@ -1,0 +1,7 @@
+Solar-powered 'skin' could make prosthetics more real
+
+Many people try to stay out of the sun. But if a new type of solar-powered electronic skin makes its way onto prosthetics, wearers will definitely want those rays shining on their limbs.
+
+Researchers are already working to create smart skin that embeds sensors that mimic the tactile feedback of human skin, making it possible for amputees to feel pressure, temperature and even dampness. But how to power the futuristic material?
+
+A team from the University of Glasgow in the UK has come up with a version that harnesses the sun's rays. Because it produces its own energy from a natural source, the engineers say, the electronic skin would operate longer than similar materials powered by batteries or tethered to a power source that would also limit portability, clearly a key feature of any everyday prosthetic or touch-sensitive robot on the go.

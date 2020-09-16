@@ -12,7 +12,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [BanFakeNews](./ban_fake_news/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | manual by computer science students |
 | [BuzzFeedNews Facebook Facts](./buzzfeednews_facebook_facts/) | 2,282 | 12 | mostly true, no factual content, mixture of true and false, mostly false | manual |
 | [CREDBANK](./credbank/) | 60 million tweets, grouped into 1049 real-world events | - | Certainly Inaccurate (-2), Probably Inaccurate (-1), Uncertain/Doubtful (0), Probably Accurate (+1), Certainly Accurate (+2) | 30 human annotators for each event |
-| [Deception Detection Fake News](./deception_detection_fake_news/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
+| [Deception Detection Fake News](./deception_detection_fake_news/) | 480 + 500 | - | fake, legit | manual fact-checking, creating fake news manually |
 | [Detecting Rumors Microblogs](./detecting_rumors_microblogs/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
 | [EANN-KDD18](./eann-kdd18/) | 9,528 | - | rumor, non-rumor | official rumor debunking system of Weibo (reported suspicious posts and examined by a committee of trusted users) |
 | [Election Day Tweets](./electionday_tweets/) | 1327 | 17 | not fake news, fake news (or 5 categories of fake news) | manual by one expert | 

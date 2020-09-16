@@ -1,0 +1,7 @@
+Yahoo Reveals Massive Breach of Data from 500M Accounts
+
+Popular web portal Yahoo said today that it believes a "state-sponsored actor" stole information relating to some 500 million user accounts from its network at the end of 2014.
+
+But Yahoo only learned about the breach "in the last few weeks," a source familiar with the matter told ABC News.
+
+The stolen information, according to Yahoo, could include names, email addresses, dates of birth, telephone numbers, password information, and possibly the question-answer combinations for security questions, which are often used to reset passwords.

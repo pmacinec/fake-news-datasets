@@ -49,4 +49,3 @@ Finish datasets:
 * news_credibility
 * detecting_rumors_microblogs
 * fever
-* deception_detection_fake_news

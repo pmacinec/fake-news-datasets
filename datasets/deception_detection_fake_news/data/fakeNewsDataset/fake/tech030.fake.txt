@@ -1,0 +1,5 @@
+Twitter removes anti-troll tools
+
+
+
+In a bold statement by Ed Ho, Twitter's vice-president of engineering, "Twitter is no longer going to be censored because of a few bad apples!". Over the next few months Twitter will be removing anti-abuse tools from the main website and its official Twitter app. Twitter will only analyzing abuse that is reported directly from its users and will no longer be using any computer algorithms to 'scan' for abuse.

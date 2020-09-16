@@ -1,0 +1,7 @@
+A Google computer victorious over the world's 'Go' champion
+
+On Saturday, a Google computer clocked its third consecutive victory over Lee Se-dol, the long-reigning global champion of the world's most complex board game. That win makes the machine the clear winner in a best-of-five series.
+
+The achievements of the Google DeepMind computer, AlphaGo, are considered a significant advancement in artificial intelligence.
+
+"To be honest, we are a bit stunned," said Google DeepMind CEO Demis Hassabis, after AlphaGo's third win. "We came here to challenge Lee Se-dol, as we wanted to learn from him and see what AlphaGo was capable of.
