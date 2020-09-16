@@ -33,6 +33,6 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [News Credibility](./news_credibility/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) |
 | [PHEME](./pheme/) | 5,802 | - | rumour, non-rumours | manual by journalists |
-| [This Just In](./this_just_in/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
+| [This Just In](./this_just_in/) | 225 + 101 | 2 | fake, real, satire | according to source (and additional filtering) |
 | [WeFEND-AAAI20](./wefend_aaai20/) | 10,587 + 10,141 | 6 | 1 (fake), 0 (real) | manual by experts, considering title only |
 | [WSDM - Fake News Classification - Kaggle](./wsdm_fake_news_classification_kaggle/) | 320,552 | 8 | unrelated, agreed, disagreed | probably by experts |

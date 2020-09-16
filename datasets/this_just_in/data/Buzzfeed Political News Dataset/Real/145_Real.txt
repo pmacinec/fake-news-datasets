@@ -1,0 +1,53 @@
+The presidential candidates have wildly varying tax proposals.
+
+Donald Trump and Ted Cruz propose massive cuts that would greatly reduce federal income taxes on everyone, especially the wealthy, while cutting a wide host of government programs. Meanwhile, Bernie Sanders proposes virtually the opposite: tax increases on everyone, with hikes on the wealthy especially, while adding comprehensive government programs. And Hillary Clinton proposes much smaller tax increases, all focused on the rich.
+
+But what do their plans mean for your federal tax liability?
+
+We partnered with the Tax Policy Center to create a calculator that will estimate how each presidential candidate's tax plan would affect you — or, more accurately, people like you. For example, if you are part of a couple with two children earning $38,000 a year, this calculator tells you the average change in federal taxes for all couples with two children who earn between $35,000 and $40,000 a year.
+
+Before you change your vacation plans based on these numbers, keep in mind they are only estimates. Every taxpayer has a slightly different situation — someone might be deducting business expenses, for example, while another person will be paying a tax for not carrying insurance coverage. This creates millions of different scenarios.
+
+Accounting for all of that is prohibitively complicated and time-consuming. But what we have done is simplify the process to consider only the biggest factors (income, marital status, and children) and only look at the four taxes with the largest impact (individual and corporate income taxes, payroll taxes, and excise taxes).
+
+Try it yourself below.
+
+(Note: The Tax Policy Center did not perform an analysis of John Kasich's tax plan because his plan lacks sufficient detail to model. They have reached out to the Kasich campaign in search of more details, and will analyze the plan if they receive enough information to do so.)
+
+The calculator: How much does each candidate's tax plan affect you?
+
+Read this: Ezra wrote a piece about what the tax calculator tells us about the candidates. On Cruz and Trump, he writes:
+
+In a sense, both GOP candidates are gaming the calculator: They've proposed tremendous cuts, but without knowing who will pay for those cuts, it's hard to know who will truly be helped and who will be badly hurt.
+On Sanders, he writes:
+
+Sanders, meanwhile, proposes to raise taxes by more than Trump proposes to cut them. But it's wrong, I think, to view Sanders's plan as primarily a change to America's tax code. The huge tax increases are a byproduct of Sanders's plans to nationalize major sectors of American life.
+Read the full analysis here.
+
+Update on why rates are higher than you think: We've been getting a lot of questions about why your current effective tax rate is so high. Here's a note from Tax Policy Center director Len Burman that explains why this is happening:
+
+You might be surprised at how much taxes you’re paying under current law. We’re including payroll taxes, excise taxes, and corporate income taxes as well as individual income taxes. Most working people actually pay more in payroll tax than income tax. And they pay much more if you include the employer’s portion of the tax. Most economists think employers pass their share of the tax on to workers in the form of lower wages.
+Update, plus a FAQ section: To calculate the tax rate, we originally used adjusted gross income (AGI), but we decided to switch over to expanded cash income (ECI), because this measure includes income that is not subject to income tax, like health insurance premiums paid by employers. This allows the calculator to provide a more accurate view of your tax rate. For a longer explanation, read this Q&A.
+
+What we learned from our calculator
+Play around with different incomes other than your own to get a better idea of how each candidate deals with the poor, middle class, and wealthy.
+
+In short, what you'll see is:
+
+Clinton proposes keeping things mostly the same.
+Sanders wants to implement massive increases across the board, including on the poor.
+Cruz and Trump propose big cuts for everyone — but the wealthier you are, the more you keep in your pocket.
+But how does this affect how much money the federal government brings in?
+It's one thing to know how your taxes will change, but you can't view it in a vacuum. What the federal government does can affect your bottom line, too.
+
+For example, Bernie Sanders's plan would raise taxes on everyone, but it would also pay for health care, education, and other programs that you would no longer have to pay for. And it goes the other way, too. If Donald Trump's tax plan was implemented, everyone would get a tax cut, but it also means government services would be cut, so you would have to pay for them yourself.
+
+So this is how each candidate deals with this balance:
+
+Donald Trump: His plan would cut federal revenues by an estimated $9.5 trillion over the next decade. Cuts would be across the board, but most cuts would be for wealthier households. His tax cuts promise to stimulate economic growth and reduce government spending, which could cause households to pay more for services that are currently subsidized by the government. (Here are more details on Trump's plan.)
+
+Ted Cruz: His plan would cut federal revenues by an estimated $8.6 trillion over the next decade. Much like Trump's plan, cuts would be across the board, but most cuts are for wealthier households. His tax cuts promise to stimulate economic growth and reduce government spending, which could cause households to pay more for services that are currently subsidized by the government. (Here are more details on Cruz's plan.)
+
+Hillary Clinton: Her plan would raise federal revenues by an additional $1.1 trillion over the next decade. Most increases would be for wealthier households, while lower-income households aren't affected much. The additional revenues will pay for programs that benefit many Americans. (Here are more details on Clinton's plan.)
+
+Bernie Sanders: His plan would raise federal revenues by an estimated $15.3 trillion over the next decade. He would raise taxes for almost all households, but most increases would be for wealthier households; tax increases would be small for lower- and middle-income households. Additional revenues would pay for health care, education, and other programs, so households would pay less than what they currently pay for those services. (Here are more details on Sanders's plan.)

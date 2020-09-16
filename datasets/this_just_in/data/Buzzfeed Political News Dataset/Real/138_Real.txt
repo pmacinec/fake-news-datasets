@@ -1,0 +1,119 @@
+Some time ago, Hillary Clinton and her advisers decided that the best course of action was to apologize for having used a personal email address to conduct government business while serving as secretary of state. Clinton herself was, clearly, not really all that remorseful about this, and it showed in her early efforts to address it. Eventually aides prevailed upon her to express a greater degree of regret, which they hoped would lay the issue to rest.
+
+It did not. Instead, email-related talk has dogged Clinton throughout the election and it has influenced public perceptions of her in an overwhelmingly negative way. July polling showed 56 percent of Americans believed Clinton broke the law by relying on a personal email address with another 36 percent piling on to say the episode showed “bad judgments” albeit not criminality.
+
+Because Clinton herself apologized for it and because it does not appear to be in any way important, Clinton allies, surrogates, and co-partisans have largely not familiarized themselves with the details of the matter, instead saying vaguely that it was an error of judgment and she apologized and America has bigger fish to fry.
+
+This has had the effect of further inscribing and reinscribing the notion that Clinton did something wrong, meaning that every bit of micro-news that puts the scandal back on cable amounts to reminding people of something bad that Clinton did. In total, network newscasts have, remarkably, dedicated more airtime to coverage of Clinton’s emails than to all policy issues combined.
+
+This is unfortunate because emailgate, like so many Clinton pseudo-scandals before it, is bullshit. The real scandal here is the way a story that was at best of modest significance came to dominate the US presidential election — overwhelming stories of much more importance, giving the American people a completely skewed impression of one of the two nominees, and creating space for the FBI to intervene in the election in favor of its apparently preferred candidate in a dangerous way.
+
+Why Hillary Clinton used a personal email account
+When Hillary Clinton took office as secretary of state, she, like most people, already had a personal email account. Like most people who started a federal job in 2009, she was also disheartened to learn that the then-current state of federal IT departments was such that she could not connect her personal smartphone to a State Department email address. If she wanted ready access to both her email accounts, she would need to carry two smartphones.
+
+As any reporter in Washington knows, this indignity was in fact visited upon a huge number of DC denizens for many years. Everyone working in government felt that this was kinda bullshit, but nobody could really do anything about it. (Meanwhile, Chief Justice John Roberts has opined that carrying two phones could be reasonable grounds to suspect someone is a drug dealer.)
+
+Clinton decided to do something about it. Namely, she told her top aides to just email her at her personal address so she could keep using whichever devices she wanted. This violated an internal State Department policy directive, known as a Foreign Affairs Manual, which stated that while it was okay to use personal digital devices to do work occasionally, “normal day-to-day operations” should be conducted on standard State Department equipment. Clinton chose to ignore this guideline and because she was the boss nobody could stop her. Career foreign service officers and other State personnel have every right to be peeved that Clinton opted out of an annoying policy rather than fixing the underlying issue, but it’s hardly a matter of overwhelming public concern.
+
+And, indeed, it turns out Colin Powell also used a private email address for routine work. Condoleezza Rice and Madeleine Albright didn’t use email, and back before Albright only weird nerds even knew what email was. So at the time Clinton took office, only one previous secretary of state had ever faced the question of what email account to use, and he reached the exact same conclusion Clinton did — just use your personal email address.
+
+Why Hillary used a private email server
+When Hillary tried the eminently sensible “I was following precedent” defense, Politifact dinged her answer as “mostly false” on the grounds that while Powell did use a personal email account, he didn’t use a private email server.
+
+This distinction has attracted a lot of attention. And it’s proven politically damaging — because while lots of people maintain two email addresses and sometimes do work stuff on their personal email, very few Americans use a private email server as opposed to relying on a commercial email service. But legally speaking, this is completely irrelevant. As the State Department inspector general concluded in its report on Clinton’s conduct, the guideline Clinton violated was a principle that “normal day-to-day operations should be conducted on an authorized Automated Information System.”
+
+Using a private server violates that rule, but so would using a Gmail address or simply checking your State.gov email address from your personal laptop rather than a Department-issue one.
+
+But while the use of a private server is legally irrelevant, it’s certainly unusual. And it leaves people wondering: Why did Clinton go out of her way to set up a private server?
+
+Clinton, as you may have heard, is married to former president Bill Clinton, who stepped down from office in January of 2001. Clinton was in the White House throughout the 1990s when the rest of us were being bombarded with AOL signup CD-ROMs, so he didn’t have a personal email when he left. Gmail didn’t exist back then, and his new job was, in effect, running a Bill Clinton startup. He launched a charitable foundation, he established his presidential library, and he made big bucks on speaking tours. He had a staff and he needed IT infrastructure and support. So he paid a guy to set up an email server that he could use.
+
+Hillary Clinton — who is, again, his wife — also set herself up with an account on the same server. This is a bit unusual, but a lot about being married to a former president is unusual. What it’s not is suspicious.
+
+The private server was not a transparency dodge
+It’s become a bit of an article of faith among journalists frustrated with public officials’ constant FOIA-dodging that this is all obviously dissimulation and Clinton was really trying to evade the Freedom of Information Act.
+
+Many people, for example, point to the fact that Clinton would routinely travel with multiple digital devices as debunking her supposed convenience argument. But this is silly. I’ve been known to travel with an iPhone, an iPad, a Kindle, and a laptop all at once. That doesn’t mean needing to carry two separate iPhones (one to check my work email and one to check my personal email) wouldn’t be inconvenient. After all, what if I was replying to a work email while a text came in to my personal phone and I wanted to check it.
+
+I’d be left juggling phones and looking like an idiot, exactly how federal employees tended to look in the heyday of the double-fisting phones era.
+
+I would not want to do that. Colin Powell did not want to do that. Hillary Clinton did not want to do that. Because that would be terrible.
+
+By contrast, it’s a terrible solution to a desire to avoid having your emails disclosed to the public via FOIA. One way you can tell it’s a terrible solution is that Hillary Clinton’s work emails have been disclosed to the public. You can read them right here.
+
+The specific timeline is that the House Select Committee on Benghazi requested Clinton’s emails in the summer of 2014, at which point the relevant State Department personnel realized they did not have the emails because Clinton had been using her personal address. State asked Clinton for the emails, and she handed them over later that year. It was only in March of 2015 that the New York Times broke the story of Clinton’s personal email account in a scoop by Michael Schmidt (the server was reported a few days later by the AP)*, which reported that the emails had been handed over to the State Department “two months ago.”
+
+This is fairly clearly not an optimal approach to government record-keeping, as Thomas Blanton of the National Security Archive at George Washington University told Schmidt at the time:
+
+It’s a shame it didn’t take place automatically when she was secretary of state as it should have. Someone in the State Department deserves credit for taking the initiative to ask for the records back. Most of the time it takes the threat of litigation and embarrassment.
+According to the Inspector General’s report, Clinton “should have preserved any Federal records she created and received on her personal account by printing and filing those records with the related files in the Office of the Secretary.”
+
+There are two possible interpretations here. One is that Clinton hatched the private email account plan as an elaborate dodge of federal record-keeping laws, but then months before the public became aware of the server’s existence complied with requests to turn them over. The other is that the federal records rule on the book was antiquated and a bit absurd, requiring officials to turn over paper copies of emails for no good reason, and simply got ignored out of sloppiness.
+
+But she deleted 33,000 emails!
+Suspicion at this point is then supposed to focus on the fact that she had her lawyers delete more than 30,000 emails from her server.
+
+After Hillary left office, the State Department told her she had to turn all her work-related emails over to them, so she tasked a legal team with determining which emails were work emails and which were not. She turned the work emails over because that’s what she was legally required to do. She deleted the others, presumably because she did not want Trey Gowdy and Jason Chaffetz to rummage through her inbox leaking whatever they happened to find amusing to area journalists.
+
+Now, is it possible that Clinton’s legal team simply decided to entirely disregard the law and delete work-related emails?
+
+In some sense, sure. But there’s no evidence that this happened. Generally speaking, in life we assume it would be moderately difficult to hire a well-known law firm to destroy evidence for you without someone deciding to do the right thing and squeal.
+
+Besides which, it would be almost comically easy to catch Clinton in the act of systematically destroying relevant emails. The vast majority of the work-related email correspondence of an incumbent secretary of state, after all, is going to be correspondence with other government employees. Maybe she shoots a note to the Pentagon about Benghazi, or circulates ideas for a speech draft with her communications team. Any message like that, by definition, would exist on a government server as well as on her private one. This means it would be fully accessible via FOIA and also means that if Clinton’s copy were found to not be in the pile of emails she turned over, she’d be caught red handed.
+
+The available FOIA workarounds are available to everyone
+Now what’s true is that Clinton could, in theory, have conducted work-related email conversations using another person’s personal email address.
+
+She could, for instance, have emailed Jake Sullivan on his Gmail address then deleted the email from her private server. We’d be in the dark and she’d get away with it.
+
+The key thing to note here, however, is that the availability of this option has nothing to do with Clinton’s decision to use a personal account as her exclusive account and also has nothing to do with her decision to host her personal email on a private server.
+
+At any given time, any federal employee can use her personal account to email any other federal employee at his personal account. If they receive a Freedom of Information Act request, they are legally obligated to hand that correspondence over. But in a practical sense, if they want to break the law they can probably get away with it. And as Ezra Klein has noted, there are a lot of workarounds here:
+
+As every reporter knows, when official sources want to tell you something particularly delicate, they email you from a personal account — or, much more often, they call.
+
+A lot of my reporting happens by email. But virtually none of my reporting with the White House happens by email. There, emails for clarification, or comment, quickly lead to phone calls. The reason — unsaid but obvious — is that phone calls don't leave an official record. White House officials can talk freely on the phone in a way they can't over email.
+
+Similarly, the White House keeps a visitor's log. If you make an appointment to meet with someone, your entrance and point of contact are recorded for posterity and searchable online. When someone who shouldn't be meeting with you wants to meet with you, they tend to suggest an off-site location: a restaurant downtown, or a nearby coffee shop. Peet's Coffee doesn't keep a list of everyone who walks in or out.
+We do not, however, generally treat all federal employees as having a massive ethical cloud over their heads just because they could probably use this workaround to break the law. There is zero reason to apply heightened scrutiny to Clinton just because she also could break the law.
+
+Besides which, when you are secretary of state there is a much simpler and easier way to mask your correspondence: classification.
+
+Here, for example, is an email Sullivan sent to Clinton on June 4, 2011, that was duly handed over to the State Department and made available by the FOIA office:
+
+ 
+I’m not saying the contents of that message don’t deserve to be redacted for security purposes. The fact is that I have no idea. But the reality is the American national security state is really, really good at using official channels to avoid disclosure of information. Nobody needs a private email server to pull that off.
+
+Indeed, the allegation that the server setup was an elaborate con to evade transparency law is doubly ridiculous. On the one hand, a private server would not be necessary to carry it out. (All you need is to have a private email address on the side, which everyone does.) While on the other hand, the exclusive use of a personal email account means that Clinton’s personal account has come under an exceptional level of security.
+
+The classification thing is a red herring
+It’s precisely because nothing about the basic setup of the email account was in any way wrong that the investigation ended up focusing on the question of mishandling classified information.
+
+The key point here is that using a State.gov email account would not have changed anything. When US government officials have conversations about classified matters, they are not supposed to use email. They are supposed to use special secure channels.
+
+Nonetheless, mistakes happen in part because classification standards are vague and ever-changing. Technically speaking, forwarding a Washington Post article detailing things revealed by Edward Snowden could constitute an improper discussion of classified matters.
+
+As FBI Director James Comey concluded, “no reasonable prosecutor” would bring a case against Clinton over this matter. Almost all of the relevant statutes require an intent to mishandle classified information in order to bring a prosecution, a standard that Clinton’s conduct clearly does not meet. Critics have thus chosen to focus on 18 USC § 793, a statute that sets a lower “gross negligence” standard.
+
+However, as Jack Goldsmith, one of the top lawyers in George W. Bush’s administration explains, such a prosecution “would be entirely novel, and would turn in part on very tricky questions about how email exchanges fit into language written with physical removal of classified information in mind.”
+
+Ben Wittes, a veteran legal journalist and Brookings fellow who has spent the past several years specializing in national security law, wrote that Comey’s characterization was clearly correct:
+
+For the last several months, people have been asking me what I thought the chances of an indictment were. I have said each time that there is no chance without evidence of bad faith action of some kind. People simply don't get indicted for accidental, non-malicious mishandling of classified material. I have followed leak cases for a very long time, both at the Washington Post and since starting Lawfare. I have never seen a criminal matter proceed without even an allegation of something more than mere mishandling of sensitive information. Hillary Clinton is not above the law, but to indict her on these facts, she'd have to be significantly below the law.
+It’s true that to a layman the Espionage Act’s reference to “gross negligence” sounds similar to Comey’s characterization of Clinton’s actions as “extremely careless.” But as Philip Zelikow, a counselor to Condoleezza Rice during the Bush administration and currently the Director of the Miller Center at the University of Virginia explains, they only sound alike “unless you do a tiny bit of homework” on the history and caselaw of the Statute.
+
+Did Hillary Clinton do something criminal with her emails? Philip Zelikow walks you through. #election2016 @AnnCompton @pastpunditry pic.twitter.com/kS8Z4dq9Qf
+
+— Miller Center (@Miller_Center) November 3, 2016
+As the Cato Institute’s Julian Sanchez writes, attempting a prosecution for non-malicious mishandling would likely result in the statute being held unconstitutional: “the Supreme Court’s opinion in Gorin v. United States (1941), which suggests that the Espionage Act’s intent requirements are an important feature that save it from unconstitutional vagueness.”
+
+This legal analysis is important because it makes it clear that even if the Weiner laptop emails aren’t simply client-side copies of the exact emails the FBI already has, there is essentially no chance it will change the ultimate verdict. The reason Clinton isn’t getting locked up is that there was no malign intent. Finding another email with classified information on it won’t change that conclusion.
+
+A bullshit scandal amidst a serious election
+Network newscasts have, remarkably, dedicated more airtime to coverage of Clinton’s emails than to all policy issues combined.
+
+Cable news has been, if anything, worse, and many prestige outlets have joined the pileup. One malign result of obsessive email coverage is that the public is left totally unaware of the policy stakes in the election. Another is that the constant vague recitations of the phrase ‘‘Clinton email scandal’’ have firmly implanted the notion that there is something scandalous about anything involving Hillary Clinton and email, including her campaign manager getting hacked or the revelation that one of her aides sometimes checked mail on her husband’s computer.
+
+But none of this is true. Clinton broke no laws according to the FBI itself. Her setup gave her no power to evade federal transparency laws beyond what anyone who has a personal email account of any kind has. Her stated explanation for her conduct is entirely believable, fits the facts perfectly, and is entirely plausible to anyone who doesn't simply start with the assumption that she's guilty of something.
+
+Given Powell’s conduct, Clinton wasn't even breaking with an informal precedent. The very worst you can say is that, faced with an annoying government IT policy, she used her stature to find a personal workaround rather than a systemic fix that would work for everyone. To spend so much time on such a trivial matter would be absurd in a city council race, much less a presidential election. To do so in circumstances when it advances the electoral prospects of a rival who has shattered all precedents in terms of lacking transparency or basic honesty is infinitely more scandalous than anything related to the server itself.

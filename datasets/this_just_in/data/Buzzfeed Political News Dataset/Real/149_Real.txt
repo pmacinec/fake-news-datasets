@@ -1,0 +1,22 @@
+The Upshot’s elections model suggests that Hillary Clinton is favored to win the presidency, based on the latest state and national polls. A victory by Mr. Trump remains possible: Mrs. Clinton’s chance of losing is about the same as the probability that an N.F.L. kicker misses a 37-yard field goal.
+
+For months, we’ve been updating our estimates with each new poll. Today, it’s Election Day, what we’ve all been waiting for, and there will be no more updates. You can chart different paths to victory below. Here’s how our estimates have changed over time:
+
+State-by-State Estimates
+
+To forecast each party’s chance of winning the presidency, our model calculates vote estimates for each state and the District of Columbia, as well as congressional districts in Maine and Nebraska, which assign electoral votes by district.
+
+In the table below, we have divided the country into groups based on each area’s voting history relative to the nation since 2004. Our forecast in places that tend to vote …
+
+The New York Times is one of many news organizations to publish election ratings or forecasts. Some, like FiveThirtyEight or the Princeton Election Consortium, use statistical models, as The Times does; others, like the Cook Political Report, rely on reporting and knowledgeable experts’ opinions. PredictWise uses information from betting markets.
+
+We compile and standardize these ratings every day into one scoreboard for comparison. First, every organization’s estimate for who will win the presidency:
+
+
+Some combinations of electoral votes are much more common than others. The chart below shows the estimated likelihood of each outcome.
+
+The interactive diagram below illustrates Mr. Trump’s challenging path to the presidency. Here, we let you control the outcome of the nine states that have voted most like the nation since 2004, plus North Carolina, which has emerged in the past decade as a more competitive state. We then assume that Mr. Trump and Mrs. Clinton win the other states in which they are favored. Above all, this diagram illustrates how important Florida and Pennsylvania are to both candidates.
+
+Select a winner in the states below to see either candidate's paths to victory.
+ 
+

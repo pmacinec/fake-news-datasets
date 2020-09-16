@@ -1,0 +1,372 @@
+The American media, over the past year, has been trying to work out something of a mystery: Why is the Republican electorate supporting a far-right, orange-toned populist with no real political experience, who espouses extreme and often bizarre views? How has Donald Trump, seemingly out of nowhere, suddenly become so popular?
+
+What's made Trump's rise even more puzzling is that his support seems to cross demographic lines — education, income, age, even religiosity — that usually demarcate candidates. And whereas most Republican candidates might draw strong support from just one segment of the party base, such as Southern evangelicals or coastal moderates, Trump currently does surprisingly well from the Gulf Coast of Florida to the towns of upstate New York, and he won a resounding victory in the Nevada caucuses.
+
+Table of contents
+I. What is American authoritarianism?
+II. The discovery
+III. How authoritarianism works
+IV. What can authoritarianism explain?
+V. The party of authoritarians
+VI. Trump, authoritarians, and fear
+VII. America's changing social landscape 
+VIII. What authoritarians want 
+IX. How authoritarians will change American politics 
+Perhaps strangest of all, it wasn't just Trump but his supporters who seemed to have come out of nowhere, suddenly expressing, in large numbers, ideas far more extreme than anything that has risen to such popularity in recent memory. In South Carolina, a CBS News exit poll found that 75 percent of Republican voters supported banning Muslims from the United States. A PPP poll found that a third of Trump voters support banning gays and lesbians from the country. Twenty percent said Lincoln shouldn't have freed the slaves.
+
+Last September, a PhD student at the University of Massachusetts Amherst named Matthew MacWilliams realized that his dissertation research might hold the answer to not just one but all three of these mysteries.
+
+MacWilliams studies authoritarianism — not actual dictators, but rather a psychological profile of individual voters that is characterized by a desire for order and a fear of outsiders. People who score high in authoritarianism, when they feel threatened, look for strong leaders who promise to take whatever action necessary to protect them from outsiders and prevent the changes they fear.
+
+So MacWilliams naturally wondered if authoritarianism might correlate with support for Trump.
+
+He polled a large sample of likely voters, looking for correlations between support for Trump and views that align with authoritarianism. What he found was astonishing: Not only did authoritarianism correlate, but it seemed to predict support for Trump more reliably than virtually any other indicator. He later repeated the same poll in South Carolina, shortly before the primary there, and found the same results, which he published in Vox:
+
+  
+As it turns out, MacWilliams wasn't the only one to have this realization. Miles away, in an office at Vanderbilt University, a professor named Marc Hetherington was having his own aha moment. He realized that he and a fellow political scientist, the University of North Carolina's Jonathan Weiler, had essentially predicted Trump's rise back in 2009, when they discovered something that would turn out to be far more significant than they then realized.
+
+That year, Hetherington and Weiler published a book about the effects of authoritarianism on American politics. Through a series of experiments and careful data analysis, they had come to a surprising conclusion: Much of the polarization dividing American politics was fueled not just by gerrymandering or money in politics or the other oft-cited variables, but by an unnoticed but surprisingly large electoral group — authoritarians.
+
+Their book concluded that the GOP, by positioning itself as the party of traditional values and law and order, had unknowingly attracted what would turn out to be a vast and previously bipartisan population of Americans with authoritarian tendencies.
+
+This trend had been accelerated in recent years by demographic and economic changes such as immigration, which "activated" authoritarian tendencies, leading many Americans to seek out a strongman leader who would preserve a status quo they feel is under threat and impose order on a world they perceive as increasingly alien.
+
+Trump embodies the classic authoritarian leadership style: simple, powerful, and punitive
+These Americans with authoritarian views, they found, were sorting into the GOP, driving polarization. But they were also creating a divide within the party, at first latent, between traditional Republican voters and this group whose views were simultaneously less orthodox and, often, more extreme.
+
+Over time, Hetherington and Weiler had predicted, that sorting would become more and more pronounced. And so it was all but inevitable that, eventually, authoritarians would gain enough power within the GOP to make themselves heard.
+
+At the time, even Hetherington and Weiler did not realize the explosive implications: that their theory, when followed to its natural conclusion, predicted a looming and dramatic transformation of American politics. But looking back now, the ramifications of their research seem disturbingly clear.
+
+Authoritarians are thought to express much deeper fears than the rest of the electorate, to seek the imposition of order where they perceive dangerous change, and to desire a strong leader who will defeat those fears with force. They would thus seek a candidate who promised these things. And the extreme nature of authoritarians' fears, and of their desire to challenge threats with force, would lead them toward a candidate whose temperament was totally unlike anything we usually see in American politics — and whose policies went far beyond the acceptable norms.
+
+A candidate like Donald Trump.
+
+ Donald Trump
+(Scott Olson/Getty Images)
+Even Hetherington was shocked to discover quite how right their theory had been. In the early fall of 2015, as Trump's rise baffled most American journalists and political scientists, he called Weiler. He asked, over and over, "Can you believe this? Can you believe this?"
+
+This winter, I got in touch with Hetherington, MacWilliams, and several other political scientists who study authoritarianism. I wanted to better understand the theory that seemed to have predicted, with such eerie accuracy, Trump's rise. And, like them, I wanted to find out what the rise of authoritarian politics meant for American politics. Was Trump just the start of something bigger?
+
+These political scientists were, at that moment, beginning to grapple with the same question. We agreed there was something important happening here — that was just beginning to be understood.
+
+Donald Trump could be just the first of many Trumps in American politics
+Shortly after the Iowa Republican caucus, in which Trump came in a close second, Vox partnered with the Washington-based media and polling company Morning Consult to test American authoritarians along a range of political and social views — and to test some hypotheses we had developed after speaking with the leading political scientists of the field.
+
+What we found is a phenomenon that explains, with remarkable clarity, the rise of Donald Trump — but that is also much larger than him, shedding new light on some of the biggest political stories of the past decade. Trump, it turns out, is just the symptom. The rise of American authoritarianism is transforming the Republican Party and the dynamics of national politics, with profound consequences likely to extend well beyond this election.
+
+I. What is American authoritarianism?
+ A Trump supporter carries a sign saying "Build the wall"
+Andrew Renneisen/Getty Images
+For years now, before anyone thought a person like Donald Trump could possibly lead a presidential primary, a small but respected niche of academic research has been laboring over a question, part political science and part psychology, that had captivated political scientists since the rise of the Nazis.
+
+How do people come to adopt, in such large numbers and so rapidly, extreme political views that seem to coincide with fear of minorities and with the desire for a strongman leader?
+
+To answer that question, these theorists study what they call authoritarianism: not the dictators themselves, but rather the psychological profile of people who, under the right conditions, will desire certain kinds of extreme policies and will seek strongman leaders to implement them.
+
+The political phenomenon we identify as right-wing populism seems to line up, with almost astonishing precision, with the research on how authoritarianism is both caused and expressed
+After an early period of junk science in the mid-20th century, a more serious group of scholars has addressed this question, specifically studying how it plays out in American politics: researchers like Hetherington and Weiler, Stanley Feldman, Karen Stenner, and Elizabeth Suhay, to name just a few.
+
+The field, after a breakthrough in the early 1990s, has come to develop the contours of a grand theory of authoritarianism, culminating quite recently, in 2005, with Stenner's seminal The Authoritarian Dynamic — just in time for that theory to seemingly come true, more rapidly and in greater force than any of them had imagined, in the personage of one Donald Trump and his norm-shattering rise.
+
+According to Stenner's theory, there is a certain subset of people who hold latent authoritarian tendencies. These tendencies can be triggered or "activated" by the perception of physical threats or by destabilizing social change, leading those individuals to desire policies and leaders that we might more colloquially call authoritarian.
+
+It is as if, the NYU professor Jonathan Haidt has written, a button is pushed that says, "In case of moral threat, lock down the borders, kick out those who are different, and punish those who are morally deviant."
+
+Authoritarians are a real constituency that exists independently of Trump — and will persist as a force in American politics
+Authoritarians prioritize social order and hierarchies, which bring a sense of control to a chaotic world. Challenges to that order — diversity, influx of outsiders, breakdown of the old order — are experienced as personally threatening because they risk upending the status quo order they equate with basic security.
+
+This is, after all, a time of social change in America. The country is becoming more diverse, which means that many white Americans are confronting race in a way they have never had to before. Those changes have been happening for a long time, but in recent years they have become more visible and harder to ignore. And they are coinciding with economic trends that have squeezed working-class white people.
+
+When they face physical threats or threats to the status quo, authoritarians support policies that seem to offer protection against those fears. They favor forceful, decisive action against things they perceive as threats. And they flock to political leaders who they believe will bring this action.
+
+If you were to read every word these theorists ever wrote on authoritarians, and then try to design a hypothetical candidate to match their predictions of what would appeal to authoritarian voters, the result would look a lot like Donald Trump.
+
+But political scientists say this theory explains much more than just Donald Trump, placing him within larger trends in American politics: polarization, the rightward shift of the Republican Party, and the rise within that party of a dissident faction challenging GOP orthodoxies and upending American politics.
+
+More than that, authoritarianism reveals the connections between several seemingly disparate stories about American politics. And it suggest that a combination of demographic, economic, and political forces, by awakening this authoritarian class of voters that has coalesced around Trump, have created what is essentially a new political party within the GOP — a phenomenon that broke into public view with the 2016 election but will persist long after it has ended.
+
+II. The discovery: how a niche subfield of political science suddenly became some of the most relevant research in American politics
+ Buttons for sale on the day of the 2016 Iowa caucuses
+Brendan Hoffman/Getty Images
+Buttons for sale on the day of the 2016 Iowa caucuses.
+This study of authoritarianism began shortly after World War II, as political scientists and psychologists in the US and Europe tried to figure out how the Nazis had managed to win such wide public support for such an extreme and hateful ideology.
+
+That was a worthy field of study, but the early work wasn't particularly rigorous by today's standards. The critical theorist Theodor Adorno, for instance, developed what he called the "F-scale," which sought to measure "fascist" tendencies. The test wasn't accurate. Sophisticated respondents would quickly discover what the "right" answers were and game the test. And there was no proof that the personality type it purportedly measured actually supported fascism.
+
+More than that, this early research seemed to assume that a certain subset of people were inherently evil or dangerous — an idea that Hetherington and Weiler say is simplistic and wrong, and that they resist in their work. (They acknowledge the label "authoritarians" doesn't do much to dispel this, but their efforts to replace it with a less pejorative-sounding term were unsuccessful.)
+
+If this rise in American authoritarianism is so powerful as to drive Trump's ascent, then how else might it be shaping American politics?
+But the real problem for researchers was that even if there really were such a thing as an authoritarian psychological profile, how do you measure it? How do you interrogate authoritarian tendencies, which can sometimes be latent? How do you get honest answers on questions that can be sensitive and highly politicized?
+
+As Hetherington explained to me, "There are certain things that you just can't ask people directly. You can't ask people, 'Do you not like black people?' You can't ask people if they're bigots."
+
+For a long time, no one had a solution for this, and the field of study languished.
+
+Then in the early 1990s, a political scientist named Stanley Feldman changed everything. Feldman, a professor at SUNY Stonybrook, believed authoritarianism could be an important factor in American politics in ways that had nothing to do with fascism, but that it could only reliably be measured by unlinking it from specific political preferences.
+
+He realized that if authoritarianism were a personality profile rather than just a political preference, he could get respondents to reveal these tendencies by asking questions about a topic that seemed much less controversial. He settled on something so banal it seems almost laughable: parenting goals.
+
+Feldman developed what has since become widely accepted as the definitive measurement of authoritarianism: four simple questions that appear to ask about parenting but are in fact designed to reveal how highly the respondent values hierarchy, order, and conformity over other values.
+
+Please tell me which one you think is more important for a child to have: independence or respect for elders?
+Please tell me which one you think is more important for a child to have: obedience or self-reliance?
+Please tell me which one you think is more important for a child to have: to be considerate or to be well-behaved?
+Please tell me which one you think is more important for a child to have: curiosity or good manners?
+Feldman's test proved to be very reliable. There was now a way to identify people who fit the authoritarian profile, by prizing order and conformity, for example, and desiring the imposition of those values.
+
+In 1992, Feldman convinced the National Election Study, a large survey of American voters conducted in each national election year, to include his four authoritarianism questions. Ever since, political scientists who study authoritarianism have accumulated a wealth of data on who exhibits those tendencies and on how they align with everything from demographic profiles to policy preferences.
+
+What they found was impossible to ignore — and is only just beginning to reshape our understanding of the American electorate.
+
+III. How authoritarianism works
+ A Tea Party supporter holds a sign asking "Obama where's your papers"
+Justin Sullivan/Getty Images
+A 2010 protest against President Obama.
+In the early 2000s, as researchers began to make use of the NES data to understand how authoritarianism affected US politics, their work revealed three insights that help explain not just the rise of Trump, but seemingly a half-century of American political dynamics.
+
+The first was Hetherington and Weiler's insight into partisan polarization. In the 1960s, the Republican Party had reinvented itself as the party of law, order, and traditional values — a position that naturally appealed to order- and tradition-focused authoritarians. Over the decades that followed, authoritarians increasingly gravitated toward the GOP, where their concentration gave them more and more influence over time.
+
+The second was Stenner's theory of "activation." In an influential 2005 book called The Authoritarian Dynamic, Stenner argued that many authoritarians might be latent — that they might not necessarily support authoritarian leaders or policies until their authoritarianism had been "activated."
+
+The social threat theory helps explain why authoritarians seem so prone to reject not just one specific kind of outsider or social change, such as Muslims or same-sex couples or Hispanic migrants, but rather to reject all of them
+This activation could come from feeling threatened by social changes such as evolving social norms or increasing diversity, or any other change that they believe will profoundly alter the social order they want to protect. In response, previously more moderate individuals would come to support leaders and policies we might now call Trump-esque.
+
+Other researchers, like Hetherington, take a slightly different view. They believe that authoritarians aren't "activated" — they've always held their authoritarian preferences — but that they only come to express those preferences once they feel threatened by social change or some kind of threat from outsiders.
+
+But both schools of thought agree on the basic causality of authoritarianism. People do not support extreme policies and strongman leaders just out of an affirmative desire for authoritarianism, but rather as a response to experiencing certain kinds of threats.
+
+The third insight came from Hetherington and American University professor Elizabeth Suhay, who found that when non-authoritarians feel sufficiently scared, they also start to behave, politically, like authoritarians.
+
+But Hetherington and Suhay found a distinction between physical threats such as terrorism, which could lead non-authoritarians to behave like authoritarians, and more abstract social threats, such as eroding social norms or demographic changes, which do not have that effect. That distinction would turn out to be important, but it also meant that in times when many Americans perceived imminent physical threats, the population of authoritarians could seem to swell rapidly.
+
+Together, those three insights added up to one terrifying theory: that if social change and physical threats coincided at the same time, it could awaken a potentially enormous population of American authoritarians, who would demand a strongman leader and the extreme policies necessary, in their view, to meet the rising threats.
+
+This theory would seem to predict the rise of an American political constituency that looks an awful lot like the support base that has emerged, seemingly out of nowhere, to propel Donald Trump from sideshow loser of the 2012 GOP primary to runaway frontrunner in 2016.
+
+Beyond being almost alarmingly prescient, this theory speaks to an oft-stated concern about Trump: that what's scariest is not the candidate, but rather the extent and fervor of his support.
+
+And it raises a question: If this rise in American authoritarianism is so powerful as to drive Trump's ascent, then how else might it be shaping American politics? And what effect could it have even after the 2016 race has ended?
+
+IV. What can authoritarianism explain?
+ Trump greets supporters in Alabama
+Mark Wallheiser/Getty Images
+In early February, shortly after Trump finished second in the Iowa caucus and ended any doubts about his support, I began talking to Feldman, Hetherington, and MacWilliams to try to answer these questions.
+
+MacWilliams had already demonstrated a link between authoritarianism and support for Trump. But we wanted to know how else authoritarianism was playing out in American life, from policy positions to party politics to social issues, and what it might mean for America's future.
+
+It was time to call Kyle Dropp. Dropp is a political scientist and pollster whom one of my colleagues described as "the Doogie Howser of polling." He does indeed appear jarringly young for a Dartmouth professor. But he is also the co-founder of a media and polling company, Morning Consult, that had worked with Vox on several other projects.
+
+When we approached Morning Consult, Dropp and his colleagues were excited. Dropp was familiar with Hetherington's work and the authoritarianism measure, he said, and was instantly intrigued by how we could test its relevance to the election. Hetherington and the other political scientists were, in turn, eager to more fully explore the theories that had suddenly become much more relevant.
+
+Non-authoritarians who were sufficiently frightened of threats like terrorism could essentially be scared into acting like authoritarians
+We put together five sets of questions. The first set, of course, was the test for authoritarianism that Feldman had developed. This would allow us to measure how authoritarianism coincided or didn't with our other sets of questions.
+
+The second set asked standard election-season questions on preferred candidates and party affiliation.
+
+The third set tested voters' fears of a series of physical threats, ranging from ISIS and Russia to viruses and car accidents.
+
+The fourth set tested policy preferences, in an attempt to see how authoritarianism might lead voters to support particular policies.
+
+If the research were right, then we'd expect people who scored highly on authoritarianism to express outsize fear of "outsider" threats such as ISIS or foreign governments versus other threats. We also expected that non-authoritarians who expressed high levels of fear would be more likely to support Trump. This would speak to physical fears as triggering a kind of authoritarian upsurge, which would in turn lead to Trump support.
+
+We wanted to look at the role authoritarians are playing in the election
+The final set of questions was intended to test fear of social change. We asked people to rate a series of social changes — both actual and hypothetical — on a scale of "very good" to "very bad" for the country. These included same-sex marriage, a path to citizenship for undocumented immigrants living in the United States, and American Muslims building more mosques in US cities.
+
+If the theory about social change provoking stress amongst authoritarians turned out to be correct, then authoritarians would be more likely to rate the changes as bad for the country.
+
+In the aggregate, we were hoping to do a few things. We wanted to understand who these people are, in simple demographic terms, and to test the basic hypotheses about how authoritarianism, in theory, is supposed to work. We wanted to look at the role authoritarians are playing in the election: Were they driving certain policy positions, for example?
+
+We wanted to better understand the larger forces that had suddenly made authoritarians so numerous and so extreme — was it migration, terrorism, perhaps the decline of working-class whites? And maybe most of all, we wanted to develop some theories about what the rise of American authoritarianism meant for the future of polarization between the parties as well as a Republican Party that had become both more extreme and internally divided.
+
+About 10 days later, shortly after Trump won the New Hampshire primary, the poll went into the field. In less than two weeks, we had our results.
+
+V. How the GOP became the party of authoritarians
+ Donald Trump and New Jersey Governor Chris Christie sign autographs during a Trump campaign event in Texas
+Tom Pennington/Getty Images
+Donald Trump and New Jersey Gov. Chris Christie sign autographs during a Trump campaign event in Texas.
+The first thing that jumped out from the data on authoritarians is just how many there are. Our results found that 44 percent of white respondents nationwide scored as "high" or "very high" authoritarians, with 19 percent as "very high." That's actually not unusual, and lines up with previous national surveys that found that the authoritarian disposition is far from rare1.
+
+The key thing to understand is that authoritarianism is often latent; people in this 44 percent only vote or otherwise act as authoritarians once triggered by some perceived threat, physical or social. But that latency is part of how, over the past few decades, authoritarians have quietly become a powerful political constituency without anyone realizing it.
+
+Today, according to our survey, authoritarians skew heavily Republican. More than 65 percent of people who scored highest on the authoritarianism questions were GOP voters. More than 55 percent of surveyed Republicans scored as "high" or "very high" authoritarians.
+
+And at the other end of the scale, that pattern reversed. People whose scores were most non-authoritarian — meaning they always chose the non-authoritarian parenting answer — were almost 75 percent Democrats.
+
+But this hasn't always been the case. According to Hetherington and Weiler's research, this is not a story about how Republicans are from Mars and Democrats are from Venus. It's a story of polarization that increased over time.
+
+They trace the trend to the 1960s, when the Republican Party shifted electoral strategies to try to win disaffected Southern Democrats, in part by speaking to fears of changing social norms — for example, the racial hierarchies upset by civil rights. The GOP also embraced a "law and order" platform with a heavily racial appeal to white voters who were concerned about race riots.
+
+This positioned the GOP as the party of traditional values and social structures — a role that it has maintained ever since. That promise to stave off social change and, if necessary, to impose order happened to speak powerfully to voters with authoritarian inclinations.
+
+Democrats, by contrast, have positioned themselves as the party of civil rights, equality, and social progress — in other words, as the party of social change, a position that not only fails to attract but actively repels change-averse authoritarians.
+
+Over the next several decades, Hetherington explained to me, this led authoritarians to naturally "sort" themselves into the Republican Party.
+
+That matters, because as more authoritarians sort themselves into the GOP, they have more influence over its policies and candidates. It is not for nothing that our poll found that more than half of the Republican respondents score as authoritarian.
+
+Perhaps more importantly, the party has less and less ability to ignore authoritarians' voting preferences — even if those preferences clash with the mainstream party establishment.
+
+VI. Trump, authoritarians, and fear
+  
+Based on our data, Morning Consult data scientist Adam Petrihos said that "among Republicans, very high/high authoritarianism is very predictive of support for Trump." Trump has 42 percent support among Republicans but, according to our survey, a full 52 percent support among very high authoritarians.
+
+Authoritarianism was the best single predictor of support for Trump, although having a high school education also came close. And as Hetherington noted after reviewing our results, the relationship between authoritarianism and Trump support remained robust, even after controlling for education level and gender.
+
+Trump support was much lower among Republicans who scored low on authoritarianism: only 38 percent.
+
+But that's still awfully high. So what could explain Trump's support among non-authoritarians?
+
+I suspected the answer might lie at least partly in Hetherington and Suhay's research on how fear affects non-authoritarian voters, so I called them to discuss the data. Hetherington crunched some numbers on physical threats and noticed two things.
+
+The first was that authoritarians tend to fear very specific kinds of physical threats.
+
+
+Authoritarians, we found in our survey, tend to most fear threats that come from abroad, such as ISIS or Russia or Iran. These are threats, the researchers point out, to which people can put a face; a scary terrorist or an Iranian ayatollah. Non-authoritarians were much less afraid of those threats. For instance, 73 percent of very high-scoring authoritarians believed that terrorist organizations like ISIS posed a "very high risk" to them, but only 45 percent of very low-scoring authoritarians did. Domestic threats like car accidents, by contrast, were much less frightening to authoritarians.
+
+But Hetherington also noticed something else: A subgroup of non-authoritarians were very afraid of threats like Iran or ISIS. And the more fear of these threats they expressed, the more likely they were to support Trump.
+
+  
+This seemed to confirm his and Suhay's theory: that non-authoritarians who are sufficiently frightened of physical threats such as terrorism could essentially be scared into acting like authoritarians.
+
+That's important, because for years now, Republican politicians and Republican-leaning media such as Fox News have been telling viewers nonstop that the world is a terrifying place and that President Obama isn't doing enough to keep Americans safe.
+
+There are a variety of political and media incentives for why this happens. But the point is that, as a result, Republican voters have been continually exposed to messages warning of physical dangers. As the perception of physical threat has risen, this fear appears to have led a number of non-authoritarians to vote like authoritarians — to support Trump.
+
+An irony of this primary is that the Republican establishment has tried to stop Trump by, among other things, co-opting his message. But when establishment candidates such as Marco Rubio try to match Trump's rhetoric on ISIS or on American Muslims, they may end up deepening the fear that can only lead voters back to Trump.
+
+VII. Is America's changing social landscape "activating" authoritarianism?
+But the research on authoritarianism suggests it's not just physical threats driving all this. There should be another kind of threat — larger, slower, less obvious, but potentially even more powerful — pushing authoritarians to these extremes: the threat of social change.
+
+This could come in the form of evolving social norms, such as the erosion of traditional gender roles or evolving standards in how to discuss sexual orientation. It could come in the form of rising diversity, whether that means demographic changes from immigration or merely changes in the colors of the faces on TV. Or it could be any changes, political or economic, that disrupt social hierarchies.
+
+What these changes have in common is that, to authoritarians, they threaten to take away the status quo as they know it — familiar, orderly, secure — and replace it with something that feels scary because it is different and destabilizing, but also sometimes because it upends their own place in society. According to the literature, authoritarians will seek, in response, a strong leader who promises to suppress the scary changes, if necessary by force, and to preserve the status quo.
+
+This is why, in our survey, we wanted to study the degree to which authoritarians versus non-authoritarians expressed a fear of social change — and whether this, as expected, led them to desire heavy-handed responses.
+
+  
+Our results seemed to confirm this: Authoritarians were significantly more likely to rate almost all of the actual and hypothetical social issues we asked about as "bad" or "very bad" for the country.
+
+For instance, our results suggested that an astonishing 44 percent of authoritarians believe same-sex marriage is harmful to the country. Twenty-eight percent rated same-sex marriage as "very bad" for America, and another 16 percent said that it’s "bad." Only about 35 percent of high-scoring authoritarians said same-sex marriage was "good" or "very good" for the country.
+
+Tellingly, non-authoritarians' responses skewed in the opposite direction. Non-authoritarians tended to rate same-sex marriage as "good" or "very good" for the country.
+
+The fact that authoritarians and non-authoritarians split over something as seemingly personal and nonthreatening as same-sex marriage is crucial for understanding how authoritarianism can be triggered by even a social change as minor as expanding marriage rights.
+
+We also asked respondents to rate whether Muslims building more mosques in American cities was a good thing. This was intended to test respondents' comfort level with sharing their communities with Muslims — an issue that has been particularly contentious this primary election.
+
+  
+A whopping 56.5 percent of very high-scoring authoritarians said it was either "bad" or "very bad" for the country when Muslims built more mosques. Only 14 percent of that group said more mosques would be "good" or "very good."
+
+The literature on authoritarianism suggests this is not just simple Islamophobia, but rather reflects a broader phenomenon wherein authoritarians feel threatened by people they identify as "outsiders" and by the possibility of changes to the status quo makeup of their communities.
+
+This would help explain why authoritarians seem so prone to reject not just one specific kind of outsider or social change, such as Muslims or same-sex couples or Hispanic migrants, but rather to reject all of them. What these seemingly disparate groups have in common is the perceived threat they pose to the status quo order, which authoritarians experience as a threat to themselves.
+
+And America is at a point when the status quo social order is changing rapidly; when several social changes are converging. And they are converging especially on working-class white people.
+
+It is conventional wisdom to ascribe the rise of first the Tea Party right and now Trump to the notion that working-class white Americans are angry.
+
+Indeed they are, but this data helps explain that they are also under certain demographic and economic pressures that, according to this research, are highly likely to trigger authoritarianism — and thus suggests there is something a little more complex going on than simple "anger" that helps explain their gravitation toward extreme political responses.
+
+Working-class communities have come under tremendous economic strain since the recession. And white people are also facing the loss of the privileged position that they previously were able to take for granted. Whites are now projected to become a minority group over the next few decades, owing to migration and other factors. The president is a black man, and nonwhite faces are growing more common in popular culture. Nonwhite groups are raising increasingly prominent political demands, and often those demands coincide with issues such as policing that also speak to authoritarian concerns.
+
+Some of these factors might be considered more or less legitimately threatening than others — the loss of working-class jobs in this country is a real and important issue, no matter how one feels about fading white privilege — but that is not the point.
+
+The point, rather, is that the increasingly important political phenomenon we identify as right-wing populism, or white working-class populism, seems to line up, with almost astonishing precision, with the research on how authoritarianism is both caused and expressed.
+
+That is not to dismiss white working-class concerns as invalid because they might be expressed by authoritarians or through authoritarian politics, but rather to better understand why this is happening — and why it's having such a profound and extreme effect on American politics.
+
+Have we misunderstood hard-line social conservatism all along?
+Most of the other social-threat questions followed a similar pattern2. On its surface, this might seem to suggest that authoritarianism is just a proxy for especially hard-line manifestations of social conservatism. But when examined more carefully, it suggests something more interesting about the nature of social conservatism itself.
+
+For liberals, it may be easy to conclude that opposition to things like same-sex marriage, immigration, and diversity is rooted in bigotry against those groups — that it's the manifestation of specific homophobia, xenophobia, and Islamophobia.
+
+But the results of the Vox/Morning Consult poll, along with prior research on authoritarianism, suggests there might be something else going on.
+
+There is no particular reason, after all, why parenting goals should coincide with animus against specific groups. We weren't asking questions about whether it was important for children to respect people of different races, but about whether they should respect authority and rules generally. So why do they coincide so heavily?
+
+What might look on the surface like bigotry was really much closer to Stenner's theory of "activation"
+What is most likely, Hetherington suggested, is that authoritarians are much more susceptible to messages that tell them to fear a specific "other" — whether or not they have a preexisting animus against that group. Those fears would therefore change over time as events made different groups seem more or less threatening.
+
+It all depends, he said, on whether a particular group of people has been made into an outgroup or not — whether they had been identified as a dangerous other.
+
+Since September 2001, some media outlets and politicians have painted Muslims as the other and as dangerous to America. Authoritarians, by nature, are more susceptible to these messages, and thus more likely to come to oppose the presence of mosques in their communities.
+
+When told to fear a particular outgroup, Hetherington said, "On average people who score low in authoritarianism will be like, 'I’m not that worried about that,' while people who score high in authoritarianism will be like, 'Oh, my god! I’m worried about that, because the world is a dangerous place.'"
+
+In other words, what might look on the surface like bigotry was really much closer to Stenner's theory of "activation": that authoritarians are unusually susceptible to messages about the ways outsiders and social changes threaten America, and so lash out at groups that are identified as objects of concern at that given moment.
+
+That's not to say that such an attitude is in some way better than simple racism or xenophobia — it is still dangerous and damaging, especially if it empowers frightening demagogues like Donald Trump.
+
+Perhaps more to the point, it helps explain how Trump's supporters have come to so quickly embrace such extreme policies targeting these outgroups: mass deportation of millions of people, a ban on foreign Muslims visiting the US. When you think about those policy preferences as driven by authoritarianism, in which social threats are perceived as especially dangerous and as demanding extreme responses, rather than the sudden emergence of specific bigotries, this starts to make a lot more sense.
+
+VIII. What authoritarians want
+From our parenting questions, we learned who the GOP authoritarians are. From our questions about threats and social change, we learned what's motivating them. But the final set of questions, on policy preferences, might be the most important of all: So what? What do authoritarians actually want?
+
+The responses to our policy questions showed that authoritarians have their own set of policy preferences, distinct from GOP orthodoxy. And those preferences mean that, in real and important ways, authoritarians are their own distinct constituency: effectively a new political party within the GOP.
+
+What stands out from the results, Feldman wrote after reviewing our data, is that authoritarians "are most willing to want to use force, to crack down on immigration, and limit civil liberties."
+
+This "action side" of authoritarianism, he believed, was the key thing that distinguished Trump supporters from supporters of other GOP candidates. "The willingness to use government power to eliminate the threats — that is most clear among Trump supporters."
+
+Authoritarians generally and Trump voters specifically, we found, were highly likely to support five policies:
+
+Using military force over diplomacy against countries that threaten the United States
+Changing the Constitution to bar citizenship for children of illegal immigrants
+Imposing extra airport checks on passengers who appear to be of Middle Eastern descent in order to curb terrorism
+Requiring all citizens to carry a national ID card at all times to show to a police officer on request, to curb terrorism
+Allowing the federal government to scan all phone calls for calls to any number linked to terrorism
+What these policies share in common is an outsize fear of threats, physical and social, and, more than that, a desire to meet those threats with severe government action — with policies that are authoritarian not just in style but in actuality. The scale of the desired response is, in some ways, what most distinguishes authoritarians from the rest of the GOP.
+
+"Many Republicans seem to be threatened by terrorism, violence, and cultural diversity, but that's not unique to Trump supporters," Feldman told me.
+
+"It seems to be the action side of authoritarianism — the willingness to use government power to eliminate the threats — that is most clear among Trump supporters," he added.
+
+If Trump loses the election, that won't remove the threats and social changes that trigger the "action side" of authoritarianism
+This helps explain why the GOP has had such a hard time co-opting Trump's supporters, even though those supporters' immediate policy concerns, such as limiting immigration or protecting national security, line up with party orthodoxy. The real divide is over how far to go in responding. And the party establishment is simply unwilling to call for such explicitly authoritarian policies.
+
+Just as striking is what was missing from authoritarians' concerns. There was no clear correlation between authoritarianism and support for tax cuts for people making more than $250,000 per year, for example. And the same was true of support for international trade agreements.
+
+These are both issues associated with mainstream GOP economic policies. All groups opposed the tax cuts, and support for trade agreements was evenly lukewarm across all degrees of authoritarianism. So there is no real divide on these issues.
+
+But there is one more factor that our data couldn't capture but is nevertheless important: Trump's style.
+
+Trump's specific policies aren't the thing that most sets him apart from the rest of the field of GOP candidates. Rather, it's his rhetoric and style. The way he reduces everything to black-and-white extremes of strong versus weak, greatest versus worst. His simple, direct promises that he can solve problems that other politicians are too weak to manage.
+
+And, perhaps most importantly, his willingness to flout all the conventions of civilized discourse when it comes to the minority groups that authoritarians find so threatening. That's why it's a benefit rather than a liability for Trump when he says Mexicans are rapists or speaks gleefully of massacring Muslims with pig-blood-tainted bullets: He is sending a signal to his authoritarian supporters that he won't let "political correctness" hold him back from attacking the outgroups they fear.
+
+This, Feldman explained to me, is "classic authoritarian leadership style: simple, powerful, and punitive."
+
+IX. How authoritarians will change the GOP — and American politics
+ Marco Rubio and Ted Cruz confront Trump during the February 25 GOP debate
+Michael Ciaglo/Pool/Getty Images
+To my surprise, the most compelling conclusion to come out of our polling data wasn't about Trump at all.
+
+Rather, it was that authoritarians, as a growing presence in the GOP, are a real constituency that exists independently of Trump — and will persist as a force in American politics regardless of the fate of his candidacy.
+
+If Trump loses the election, that will not remove the threats and social changes that trigger the "action side" of authoritarianism. The authoritarians will still be there. They will still look for candidates who will give them the strong, punitive leadership they desire.
+
+And that means Donald Trump could be just the first of many Trumps in American politics, with potentially profound implications for the country.
+
+It would also mean more problems for the GOP. This election is already showing that the party establishment abhors Trump and all he stands for — his showy demagoguery, his disregard for core conservative economic values, his divisiveness.
+
+We may now have a de facto three-party system: the Democrats, the GOP establishment, and the GOP authoritarians
+But while the party may try to match Trump's authoritarian rhetoric, and its candidates may grudgingly embrace some of his harsher policies toward immigrants or Muslims, in the end a mainstream political party cannot fully commit to extreme authoritarian action the way Trump can.
+
+That will be a problem for the party. Just look at where the Tea Party has left the Republican establishment. The Tea Party delivered the House to the GOP in 2010, but ultimately left the party in an unresolved civil war. Tea Party candidates have challenged moderates and centrists, leaving the GOP caucus divided and chaotic.
+
+Now a similar divide is playing out at the presidential level, with results that are even more destructive for the Republican Party. Authoritarians may be a slight majority within the GOP, and thus able to force their will within the party, but they are too few and their views too unpopular to win a national election on their own.
+
+And so the rise of authoritarianism as a force within American politics means we may now have a de facto three-party system: the Democrats, the GOP establishment, and the GOP authoritarians.
+
+And although the latter two groups are presently forced into an awkward coalition, the GOP establishment has demonstrated a complete inability to regain control over the renegade authoritarians, and the authoritarians are actively opposed to the establishment's centrist goals and uninterested in its economic platform.
+
+Over time, this will have significant political consequences for the Republican Party. It will become more difficult for Republican candidates to win the presidency because the candidates who can win the nomination by appealing to authoritarian primary voters will struggle to court mainstream voters in the general election. They will have less trouble with local and congressional elections, but that might just mean more legislative gridlock as the GOP caucus struggles to balance the demands of authoritarian and mainstream legislators. The authoritarian base will drag the party further to the right on social issues, and will simultaneously erode support for traditionally conservative economic policies.
+
+And in the meantime, the forces activating American authoritarians seem likely to only grow stronger. Norms around gender, sexuality, and race will continue evolving. Movements like Black Lives Matter will continue chipping away at the country's legacy of institutionalized discrimination, pursuing the kind of social change and reordering of society that authoritarians find so threatening.
+
+The chaos in the Middle East, which allows groups like ISIS to flourish and sends millions of refugees spilling into other countries, shows no sign of improving. Longer term, if current demographic trends continue, white Americans will cease to be a majority over the coming decades.
+
+In the long run, this could mean a GOP that is even more hard-line on immigration and on policing, that is more outspoken about fearing Muslims and other minority groups, but also takes a softer line on traditional party economic issues like tax cuts. It will be a GOP that continues to perform well in congressional and local elections, but whose divisions leave the party caucus divided to the point of barely functioning, and perhaps eventually unable to win the White House.
+
+For decades, the Republican Party has been winning over authoritarians by implicitly promising to stand firm against the tide of social change, and to be the party of force and power rather than the party of negotiation and compromise. But now it may be discovering that its strategy has worked too well — and threatens to tear the party apart.
