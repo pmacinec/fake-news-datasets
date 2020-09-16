@@ -47,7 +47,6 @@ Finish datasets:
 * fake_news_vs_satire
 * ban_fake_news
 * news_credibility
-* eann_kdd18
 * detecting_rumors_microblogs
 * fever
 * deception_detection_fake_news

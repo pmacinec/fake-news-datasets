@@ -14,7 +14,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [CREDBANK](./credbank/) | 60 million tweets, grouped into 1049 real-world events | - | Certainly Inaccurate (-2), Probably Inaccurate (-1), Uncertain/Doubtful (0), Probably Accurate (+1), Certainly Accurate (+2) | 30 human annotators for each event |
 | [Deception Detection Fake News](./deception_detection_fake_news/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
 | [Detecting Rumors Microblogs](./detecting_rumors_microblogs/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
-| [EANN-KDD18](./eann-kdd18/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | TODO LABELING METHOD |
+| [EANN-KDD18](./eann-kdd18/) | 9,528 | - | rumor, non-rumor | official rumor debunking system of Weibo (reported suspicious posts and examined by a committee of trusted users) |
 | [Election Day Tweets](./electionday_tweets/) | 1327 | 17 | not fake news, fake news (or 5 categories of fake news) | manual by one expert | 
 | [FakeNewsChallenge](./fake_news_challenge/) | 49,972 | 4 | unrelated, discuss, agree, disagree | manual by experts |
 | [FakeNewsCorpus](./fake_news_corpus/) | 9,408,908 | 16 | fake, satire, bias, conspiracy, state, junksci, hate, clickbait, unreliable, political, reliable | using domain (with usage of `OpenSources`) |
