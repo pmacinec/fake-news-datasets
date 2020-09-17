@@ -45,5 +45,4 @@ When adding new dataset, please follow these steps:
 
 Finish datasets:
 * fake_news_vs_satire
-* news_credibility
 * fever
