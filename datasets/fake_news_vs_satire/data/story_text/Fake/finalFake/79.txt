@@ -1,0 +1,25 @@
+Bombshell Report: DNC Hack Was an Inside Job, Not the Russians
+http://www.dailyinsidernews.com/government-corruption/report-dnc-hack-inside-job/
+BOMBSHELL REPORT: DNC HACK WAS AN INSIDE JOB, NOT THE RUSSIANS
+RUSSIAN ‘HACKING?’ HA! WHAT HAPPENED TO THAT STORY?
+America has seen an almost never ending media stream surrounding the alleged ‘hacking’ of the DNC by Russia, even though they have no evidence to support this claim. As a result, numerous investigations by private and public officials are underway and have been for quite some time.
+
+What have they found?
+
+Nothing at all.
+
+Professionals in the field of computer science with undeniable expertise in the art of cyber hacking have decided to do a few investigations of their own –and the results are staggering. Not only is there no evidence that a hack even occurred to anyone, let alone the Russians, the only answer that is feasible is that of inside leaks.
+
+Someone inside the DNC allegedly downloads information onto a portable device for the sole purpose of releasing it to the public.
+
+Via IJR:
+
+The report details at length for the first time solid evidence in the case, compiled through exhaustive interviews with forensic experts and former national security intelligence officers who are independently investigating the DNC “hack.”
+
+The conclusion of the report: This was not a hack — a hack was impossible based on the evidence. This was instead an inside job by someone who directly downloaded information from the DNC servers onto a hard device and transported it, intending it to be released.
+
+A large group of experts agree, there is no evidence to support a “hack” of the DNC.
+
+There has been a long effort to counter the official narrative we now call “Russiagate.” This effort has so far focused on the key events noted above, leaving numerous others still to be addressed. Until recently, researchers undertaking this work faced critical shortcomings, and these are to be explained. But they have achieved significant new momentum in the past several weeks, and what they have done now yields very consequential fruit. Forensic investigators, intelligence analysts, system designers, program architects, and computer scientists of long experience and strongly credentialed are now producing evidence disproving the official version of key events last year. Their work is intricate and continues at a kinetic pace as we speak. But its certain results so far are two, simply stated, and freighted with implications:
+
+There was no hack of the Democratic National Committee’s system on July 5 last year—not by the Russians, not by anyone else. Hard science now demonstrates it was a leak—a download executed locally with a memory key or a similarly portable data-storage device. In short, it was an inside job by someone with access to the DNC’s system. This casts serious doubt on the initial “hack,” as alleged, that led to the very consequential publication of a large store of documents on WikiLeaks last summer.

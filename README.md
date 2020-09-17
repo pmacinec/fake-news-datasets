@@ -44,5 +44,4 @@ When adding new dataset, please follow these steps:
 ## TODO
 
 Finish datasets:
-* fake_news_vs_satire
 * fever
