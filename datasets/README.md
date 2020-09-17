@@ -9,7 +9,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 
 | **Dataset** | **Records count** | **Attributes count** | **Labels** | **Labeling method** | **Primary language** |
 |:------------|:-----------------:|:--------------------:|------------|---------------------|----------------------|
-| [BanFakeNews](./ban_fake_news/) | TODO NUM_SAMPLES | TODO NUM_FEATURES | TODO LABELS | manual by computer science students | TODO LANGUAGE |
+| [BanFakeNews](./ban_fake_news/) | 8501 + 49977 | 10 (or 8) | fake (0), authentic (1) | according to source (and probably part of the data and click-bait labeled manually by computer science students) | bn |
 | [BuzzFeedNews Facebook Facts](./buzzfeednews_facebook_facts/) | 2,282 | 12 | mostly true, no factual content, mixture of true and false, mostly false | manual | en |
 | [CREDBANK](./credbank/) | 60 million tweets, grouped into 1049 real-world events | - | Certainly Inaccurate (-2), Probably Inaccurate (-1), Uncertain/Doubtful (0), Probably Accurate (+1), Certainly Accurate (+2) | 30 human annotators for each event | en |
 | [Deception Detection Fake News](./deception_detection_fake_news/) | 480 + 500 | - | fake, legit | manual fact-checking, creating fake news manually | en |
