@@ -15,7 +15,8 @@ def missing_values_analysis(df: pd.DataFrame) -> None:
     """
     Analyse missing values in dataframe attributes.
 
-    :param df: input dataframe.
+    Args:
+        df: Input dataframe.
     """
     for column in df.columns:
         missing_count = len(df[column][df[column].isna()])
@@ -31,7 +32,8 @@ def one_value_attributes_analysis(df: pd.DataFrame) -> None:
     """
     Check which attributes contain only one value.
 
-    :param df: input dataframe.
+    Args:
+        df: Input dataframe.
     """
     for col in df.columns:
         if len(df.loc[:, col].dropna().unique()) == 1:
@@ -42,9 +44,10 @@ def analyse_numerical_attributes(df: pd.DataFrame, label_column: str, columns: l
     """
     Analysis of numerical attributes.
 
-    :param df: input dataframe.
-    :param label_column: column representing label.
-    :param columns: list of columns to use, if None, all columns are used.    
+    Args:
+        df: Input dataframe.
+        label_column: Column representing label.
+        columns: List of columns to use, if None, all columns are used.    
     """
     columns = columns if columns is not None else list(df.columns)
 
@@ -71,11 +74,12 @@ def kdeplot_per_classes(
     """
     Draw kdeplot of attribute per each class.
     
-    :param df: dataframe with data to be drawn on kdeplot.
-    :param attribute: name of attribute to be drawn on kdeplot.
-    :param groupby: name of attribute with predicted classes.
-    :param title: title of plot.
-    :param ticks_rotation: rotation of x-ticks (labels).
+    Args:
+        df: Dataframe with data to be drawn on kdeplot.
+        attribute: Name of attribute to be drawn on kdeplot.
+        groupby: Name of attribute with predicted classes.
+        title: Title of plot.
+        ticks_rotation: Rotation of x-ticks (labels).
     """
     for x in df[groupby].unique():
         q75, q25 = np.percentile(df[df[groupby] == x][attribute], [75 ,25])
@@ -98,11 +102,12 @@ def boxplot_per_classes(
     """
     Draw boxplot of attribute per each class.
     
-    :param df: dataframe with data to be drawn on boxplot.
-    :param attribute: name of attribute to be drawn on boxplot.
-    :param groupby: name of attribute with predicted classes.
-    :param title: title of plot.
-    :param ticks_rotation: rotation of x-ticks (labels).
+    Args:
+        df: Dataframe with data to be drawn on boxplot.
+        attribute: Name of attribute to be drawn on boxplot.
+        groupby: Name of attribute with predicted classes.
+        title: Title of plot.
+        ticks_rotation: Rotation of x-ticks (labels).
     """
     sns.boxplot(x=groupby, y=attribute, data=df)
     plt.title(title)
@@ -114,9 +119,10 @@ def analyse_categorical_attributes(df: pd.DataFrame, label_column: str, columns:
     """
     Analysis of categorical attributes.
 
-    :param df: input dataframe.
-    :param label_column: column representing label.
-    :param columns: list of columns to use, if None, all columns are used.
+    Args:
+        df: Input dataframe.
+        label_column: Column representing label.
+        columns: List of columns to use, if None, all columns are used.
     """
     columns = columns if columns is not None else list(df.columns)
     
@@ -143,12 +149,13 @@ def barplot_per_classes(
     """
     Draw barplot of attribute per each class.
     
-    :param df: dataframe with data to be drawn on barplot.
-    :param attribute: name of attribute to be drawn on barplot.
-    :param groupby: name of attribute with predicted classes.
-    :param title: title of plot.
-    :param ticks_rotation: rotation of x-ticks (labels).
-    :param topn: top n classes to be drawn on the plot.
+    Args:
+        df: Dataframe with data to be drawn on barplot.
+        attribute: Name of attribute to be drawn on barplot.
+        groupby: Name of attribute with predicted classes.
+        title: Title of plot.
+        ticks_rotation: Rotation of x-ticks (labels).
+        topn: Top n classes to be drawn on the plot.
     """
     uniq_values = df[attribute].value_counts().head(topn).index
     df = df[df[attribute].isin(uniq_values)]
@@ -167,8 +174,9 @@ def analyse_textual_attributes(df: pd.DataFrame, columns: list = None) -> None:
     """
     Analysis of textual attributes.
 
-    :param df: input dataframe.
-    :param columns: list of columns to use, if None, all columns are used.
+    Args:
+        df: Input dataframe.
+        columns: List of columns to use, if None, all columns are used.
     """
     columns = columns if columns is not None else list(df.columns)
     
@@ -186,8 +194,12 @@ def text_preprocessing(df: pd.DataFrame, columns: list = None) -> pd.DataFrame:
     """
     Text preprocessing helper.
 
-    :param df: input dataframe.
-    :param columns: list of columns to use, if None, all columns are used.
+    Args:
+        df: Input dataframe.
+        columns: List of columns to use, if None, all columns are used.
+    
+    Returns:
+        Dataframe after text preprocessing.
     """
     stop_words = set(stopwords.words('english'))
     for col in columns:
@@ -203,7 +215,8 @@ def word_count_histogram(df: pd.DataFrame, column: str) -> None:
     """
     Draw histograms of number of sentences and words.
 
-    :param df: input dataframe.
+    Args:
+        df: Input dataframe.
     """
     df.dropna(subset=[column], inplace=True)
     df[f'{column}_wc'] = df[f'{column}'].apply(lambda x: len(x.split()))
@@ -226,7 +239,8 @@ def draw_word_cloud(texts: List[str]) -> None:
     """
     Draw word cloud from text of given dataframe.
 
-    :param texts: list of all texts, building corpora.
+    Args:
+        texts: List of all texts, building corpora.
     """
     word_cloud = WordCloud(width=1000, height=500,
                           background_color='white',
@@ -245,13 +259,14 @@ def check_correlations(df: pd.DataFrame, columns: list = None) -> None:
     """
     Check correlations of numerical attributes.
 
-    :param df: input dataframe.
-    :param columns: list of columns to use, if None, all columns are used.
+    Args:
+        df: Input dataframe.
+        columns: List of columns to use, if None, all columns are used.
     """
     columns = columns if columns is not None else list(df.columns)
 
     if columns:
-        fig, ax = plt.subplots(figsize=(10,10))
+        _, _ = plt.subplots(figsize=(10,10))
         sns.heatmap(df[columns].corr(), annot=True, fmt=".2f", vmin=-1.0, vmax=1.0, square=True);
     else:
         print('There are no attributes to be analysed.')
