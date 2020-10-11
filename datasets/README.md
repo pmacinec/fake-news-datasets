@@ -30,6 +30,7 @@ Datasets shown in table below have been processed so far. Each dataset has its o
 | [HoaxDataset](./hoax_dataset/) | 128 | - | Hoax, Nonhoax | manual by experts | en | wikipedia article |
 | [LIAR](./liar/) | 10,240 + 1,267 + 1,284  | 14 | barely true counts, false counts, half true counts, mostly true counts, pants on fire counts | according to fact-checking websites (like politifact.com) | en | statement |
 | [Misinfofinder](./misinfofinder/) | 248  | 13 | 1 (misinformative), 0 (non-misinformative) | manual by authors | en | comment post |
+| [Monant API](./monant/) | -  | - | - | several labeling methods | en, sk | news article, discussion post, fact-checking article, claim |
 | [News Credibility](./news_credibility/) | 6,076 | 9 | fake news, credible news (according to paper) | according to source | bg | news article |
 | [OpenSources](./opensources/) | 833 | 5 | bias, clickbait, conspiracy, fake, hate, junksci, satire, political, reliable, rumor, state, unreliable, blog, satirical | manual by experts (only websites are labeled) | en | news website |
 | [PHEME](./pheme/) | 5,802 | - | rumour, non-rumours | manual by journalists | en | tweet |
