@@ -39,3 +39,12 @@ When adding new dataset, please follow these steps:
 1. Update `datasets/{name}/README.md` file to provide link, potential tasks, description and attributes descriptions. Please, follow template file structure.
 1. Update `datasets/{name}/{name}.ipynb` file with analysis of the dataset. Please, follow template file structure.
 1. Add dataset and details into table of datasets in `datasets/README.md` file (please, follow the alphabetical order).
+
+## TODO
+
+Finish prepared datasets:
+
+* coaid
+* that_is_a_known_lie
+* fake_health
+* fake_covid
